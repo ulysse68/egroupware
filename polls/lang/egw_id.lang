@@ -1,0 +1,20 @@
+%1 group	polls	id	%1 group
+actions	polls	id	actions
+add answers	polls	id	Add answers
+add questions	polls	id	Add questions
+administrators	polls	id	Administrators
+answer	polls	id	Answer
+answers	polls	id	Answers
+current poll	polls	id	Current Poll
+edit answer	polls	id	Edit answer
+noone	polls	id	Noone
+poll question	polls	id	Poll question
+polls	common	id	Polls
+settings updated	polls	id	Settings updated
+show answers	polls	id	Show answers
+show questions	common	id	Show questions
+total votes	polls	id	Total
+view poll	polls	id	View poll
+view results	polls	id	View Results
+vote	polls	id	Vote
+which poll	polls	id	Which poll

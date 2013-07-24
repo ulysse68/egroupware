@@ -1,0 +1,41 @@
+accepted	syncml	id	Accepted
+all incl. rejected	syncml	id	Semua termasuk yang ditolak
+auto	syncml	id	auto
+calendar	common	id	Kalender
+calendar filter	syncml	id	Saring Kalender
+caltasks	syncml	id	caltasks
+card	syncml	id	card
+client configuration	syncml	id	Client configuration
+client wins	syncml	id	Client Wins
+contacts	syncml	id	kontak
+content type	syncml	id	content type
+datastore name	syncml	id	datastore name
+device history	common	id	Device History
+documentation	common	id	Dokumentasi
+egroupware application	syncml	id	Aplikasi eGroupware
+enforce server	syncml	id	Enforce Server
+events	syncml	id	events
+ignore client	syncml	id	Ignore Client
+jobs	syncml	id	jobs
+merge data	syncml	id	Merge Data
+not rejected	syncml	id	Not rejected
+notes	syncml	id	notes
+notes (infolog)	syncml	id	Notes (InfoLog)
+owner too	syncml	id	Owner too
+primary group	syncml	id	Primary Group
+scal	syncml	id	scal
+scard	syncml	id	scard
+server location/url	syncml	id	Server location/URL
+server wins	syncml	id	Server Wins
+settings for	syncml	id	Settings for
+sifcalendar	syncml	id	sifcalendar
+sifcontacts	syncml	id	sifcontacts
+sifnotes	syncml	id	sifnotes
+siftasks	syncml	id	siftasks
+snote	syncml	id	snote
+stask	syncml	id	stask
+syncml preferences	syncml	id	Kesukaan SyncML
+syncronization calendars	syncml	id	Sinkronisasi Kalender
+task (infolog)	syncml	id	Task (InfoLog)
+tasks	syncml	id	tasks
+your egroupware password	syncml	id	Password EGroupware Anda

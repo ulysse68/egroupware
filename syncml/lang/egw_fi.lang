@@ -1,0 +1,75 @@
+<li>the client wins and overwrites the server data.</li><li>the server wins and overwrites the client data (default). </li><li>duplicate entries are created from both versions.</li>	syncml	fi	<li>Laite voittaa ja kirjoittaa palvelimelle.</li><li>Palvelin voittaa ja kirjoittaa laitteelle (oletus). </li><li>Tuplamerkinnät luodaan molemmista versioista.</li>
+a duplicate infolog entry from a synchronization conflict will be assigned to this category.	syncml	fi	Synkronoinnista aiheutunut Tehtävienhallinnan tuplamerkintä lisätään kategoriaan
+accepted	syncml	fi	Hyväksytty
+addressbook conflict category	syncml	fi	Osoitekirjan konfliktikategoria
+addressbook synchronization options	syncml	fi	Osoitekirjan synkronointiasetukset
+all incl. rejected	syncml	fi	Kaikki, myös hylätyt
+auto	syncml	fi	Automaattinen
+calendar	common	fi	Kalenteri
+calendar conflict category	syncml	fi	Kalenterin konfliktikategoria
+calendar filter	syncml	fi	Kalenterisuodin
+calendar future period	syncml	fi	Kalenterin tuleva jakso
+calendar history period	syncml	fi	Kalenterin mennyt jakso
+calendar synchronization options	syncml	fi	Kalenterin synkronointiasetukset
+caltasks	syncml	fi	Caltasks
+card	syncml	fi	Card
+categories for conflict duplicates	syncml	fi	Konflikti-tuplamerkintöjen kategoriat
+client configuration	syncml	fi	Laitteen konfigurointi
+client wins	syncml	fi	Laite voittaa
+conflict categories for egroupware data types	syncml	fi	Konfliktikategoriat EGroupwaren data tyypeille
+conflict handling and server r/o options	syncml	fi	Konfiktikäsittely ja palvelimen R/O asetukset
+contacts	syncml	fi	Osoitteet
+content type	syncml	fi	Sisältötyyppi
+deny explicitly disabled devices	syncml	fi	Hylkää erikseenmainitut laitteet
+deny unkown devices	syncml	fi	Hylkää tunnistamattomat laitteet
+device history	common	fi	Laitehistoria
+device specific settings	syncml	fi	Laitekohtaiset asetukset
+do you really want to delete the synchonization history of the selected datastores?	syncml	fi	Haluatko varmasi poistaa synkronointihistorian valitusta data storesta?
+do you really want to delete the synchonization history of the selected devices?	syncml	fi	Haluatko varmasi poistaa synkronointihistorian valitusta laitteesta?
+documentation	common	fi	Dokumentaatio
+egroupware application	syncml	fi	EGroupware sovellus
+events	syncml	fi	Tapahtumat
+events from selected calendars will be synchronized.	syncml	fi	Valittujen kalentereiden tapahtumat synkronoidaan.
+if enabled, egroupware will allow only devices which are allowed by the administrator.	syncml	fi	Jos otettu käyttöön, ainoastaan ylläpitäjien sallimat laitteet hyväksytään.
+ignore client	syncml	fi	Ohita laite
+infolog conflict category	syncml	fi	Tehtävienhallinnan konfliktikategoria
+jobs	syncml	fi	Jobs
+minimum accepted uid length	syncml	fi	Hyväksytty UID minimipituus
+minimum uid length	syncml	fi	UID minimipituus
+not rejected	syncml	fi	Ei hylätyt
+note synchronization options	syncml	fi	Muistiinpanon synkronointiasetukset
+notes	syncml	fi	Notes
+notes (infolog)	syncml	fi	Muistiinpanot (Tehtävienhallinta)
+only entries from this addressbook (and the above list) will be synchronized.	syncml	fi	Ainoastaan tämän osoitekirjan -ja ylläolevan listan- merkinnät synkronoidaan
+only events matching this filter criteria will be synchronized.	syncml	fi	Ainoastaan valitut tapahtumamuodot synkronoidaan
+only events up to this number of seconds in the future will be synchonized (65000000 seconds > 2 years).	syncml	fi	Ainoastaan tapahtumat max. sekuntia tulevaisuuteen synkronoidaan. 65000000 sekuntia > 2 vuotta.
+only notes matching this filter criteria will be synchronized.	syncml	fi	Ainoastaan valitut muistiinpanomuodot synkronoidaan
+only tasks matching this filter criteria will be synchronized.	syncml	fi	Ainoastaan valitut tehtävämuodot synkronoidaan
+owner too	syncml	fi	Myös omistaja
+preferences for the syncml	syncml	fi	SyncML asetukset
+primary group	syncml	fi	Ensisijainen ryhmä
+scal	syncml	fi	scal
+scard	syncml	fi	scard
+server location/url	syncml	fi	Palvelimen URL
+server wins	syncml	fi	Palvelin voittaa
+settings for	syncml	fi	Asetukset
+sifcalendar	syncml	fi	sifcalendar
+sifcontacts	syncml	fi	sifcontacts
+sifnotes	syncml	fi	sifnotes
+siftasks	syncml	fi	siftasks
+snote	syncml	fi	snote
+stask	syncml	fi	stask
+synchronize this addressbook	syncml	fi	Synkronoi tämä osoitekirja
+synchronize this list	syncml	fi	Synkronoi tämä lista
+synchronize this selection	syncml	fi	Synkronoi tämä valinta
+syncml preferences	syncml	fi	SyncML asetukset
+task (infolog)	syncml	fi	Tehtävät (InfoLog)
+task synchronization options	syncml	fi	Tehtävien synkronointiasetukset
+tasks	syncml	fi	Tehtävät
+the syncml application	syncml	fi	SyncML sovellus
+to this addressbook category a conflict duplicate will be added.	syncml	fi	Synkronoinnista aiheutunut osoitekirjan tuplamerkintä lisätään kategoriaan
+to this calendar category a conflict duplicate will be added.	syncml	fi	Synkronoinnista aiheutunut kalenterin tuplamerkintä lisätään kategoriaan
+vcard is the new format for sync and we recomment to use vcard instead of sif.	syncml	fi	vCardia suositellaan käytettäväksi SIFin sijaan!
+you can synchronize your<ul><li>addressbook</li><li>calendar</li><li>task (infolog)</li><li>notes (infolog)</li></ul>	syncml	fi	Voit synkronoida<ul><li>Osoitekirjan</li><li>Kalenterin</li><li>Tehtävät (InfoLog)</li><li>Muistiinpanot (InfoLog)</li></ul>
+your calendar will be synchronized up to this number of seconds in the past (2678400 seconds = 31 days).	syncml	fi	Ainoastaan tapahtumat max. sekuntia menneisyyteen synkronoidaan. 2678400 sekuntia > 31 päivää.
+your egroupware password	syncml	fi	EGroupware salasana

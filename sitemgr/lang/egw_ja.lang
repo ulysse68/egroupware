@@ -1,0 +1,21 @@
+actions	sitemgr	ja	動作
+address line 2	sitemgr	ja	町域２
+application	sitemgr	ja	アプリケーション
+bookmarks	sitemgr	ja	ブックマーク
+calendar	sitemgr	ja	カレンダー
+delete category	sitemgr	ja	カテゴリ削除
+department	sitemgr	ja	部署
+export	sitemgr	ja	エクスポート
+fax	sitemgr	ja	Fax
+group name	sitemgr	ja	グループ名
+id	sitemgr	ja	ID
+import	sitemgr	ja	インポート
+prefix	sitemgr	ja	プレフィックス
+refresh	sitemgr	ja	再表示
+reset	sitemgr	ja	再入力
+site	sitemgr	ja	Site
+state	sitemgr	ja	都道府県
+translate	sitemgr	ja	Translate
+unsubscribe	sitemgr	ja	非表示
+week	sitemgr	ja	週
+zip code	sitemgr	ja	郵便番号

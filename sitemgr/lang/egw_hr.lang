@@ -1,0 +1,40 @@
+actions	sitemgr	hr	Akcije
+add a category	sitemgr	hr	dodaj kategoriju
+address line 2	sitemgr	hr	Adresa Linija 2
+application	sitemgr	hr	Aplikacija
+ascending	sitemgr	hr	Ascending
+bookmarks	sitemgr	hr	Bookmarks
+center	sitemgr	hr	Center
+comment	sitemgr	hr	Comment
+custom	sitemgr	hr	Proizvoljno
+default	sitemgr	hr	Početno postavljena vrijednost
+delete category	sitemgr	hr	Obriši kategoriju
+department	sitemgr	hr	Odjel
+descending	sitemgr	hr	Descending
+documentation	sitemgr	hr	Documentation
+email address	sitemgr	hr	email address
+entry saved	sitemgr	hr	Entry saved
+export	sitemgr	hr	Export
+fax	sitemgr	hr	Fax
+go to	sitemgr	hr	Idi u
+id	sitemgr	hr	identitet
+import	sitemgr	hr	Uvezi
+move to	sitemgr	hr	premjesti izabrano u
+not	common	hr	ne
+prefix	sitemgr	hr	Prefiks
+previous	sitemgr	hr	Prijašnja
+refresh	sitemgr	hr	Obnovi
+reload	sitemgr	hr	Ponovo otvori
+reset	sitemgr	hr	Postavi ponovo
+select a category	sitemgr	hr	select a Category
+site	sitemgr	hr	Site
+size	sitemgr	hr	Veličina
+state	sitemgr	hr	Županija
+table of contents	sitemgr	hr	Tabela sadržaja
+textarea	sitemgr	hr	Textarea
+translate	sitemgr	hr	Pravedi
+unsubscribe	sitemgr	hr	Odpretplata
+use default	sitemgr	hr	Use default
+week	sitemgr	hr	Tjedan
+wiki	sitemgr	hr	Wiki
+zip code	sitemgr	hr	Poštanski Broj

@@ -1,0 +1,97 @@
+<li>the client wins and overwrites the server data.</li><li>the server wins and overwrites the client data (default). </li><li>duplicate entries are created from both versions.</li>	syncml	ru	<li>Клиент победит и перезапишет данные сервера.</li><li>Сервер победит и перезапишет данные клиента (по умолчанию). </li><li>Дублированные записи создаются в обеих версиях.</li>
+a duplicate infolog entry from a synchronization conflict will be assigned to this category.	syncml	ru	Дублированным в результате конфликта синхронизации записям ИнфоЖурнала назначается эта категория
+accepted	syncml	ru	Принято
+addressbook conflict category	syncml	ru	Категория конфликта адресной книги
+addressbook synchronization options	syncml	ru	Параметры синхронизации адресной книги
+all incl. rejected	syncml	ru	Все, включая отвергнутые
+auto	syncml	ru	Авто
+calendar	common	ru	Календарь
+calendar conflict category	syncml	ru	Категория конфликта календаря
+calendar filter	syncml	ru	Фильтр календаря
+calendar future period	syncml	ru	Период календаря в будущее
+calendar history period	syncml	ru	Период календаря в прошлое
+calendar synchronization options	syncml	ru	Пареметры синхронизации календаря
+caltasks	syncml	ru	Календарные задачи
+card	syncml	ru	Карта
+categories for conflict duplicates	syncml	ru	Категории для конфликта дублей
+client configuration	syncml	ru	Конфигурация клиента
+client wins	syncml	ru	Клиент победит
+conflict categories for egroupware data types	syncml	ru	Конфликтные категории для
+conflict handling and server r/o options	syncml	ru	Обработка конфликтов и R/O параметры сервера
+contacts	syncml	ru	Контакты
+content type	syncml	ru	Тип содержимого
+datastore name	syncml	ru	Имя хранилища данных
+deny explicitly disabled devices	syncml	ru	Отвергать явно запрещенные устройства
+deny unkown devices	syncml	ru	Отвергать неизвестные устройства
+device history	common	ru	История устройства
+device specific settings	syncml	ru	Специфические настройки устройства
+do you really want to delete the synchonization history of the selected datastores?	syncml	ru	Вы действительно хотите удалить историю синхронизации выбранного хранилища данных?
+do you really want to delete the synchonization history of the selected devices?	syncml	ru	Вы действительно хотите удалить историю синхронизации выбранного устройства?
+documentation	common	ru	Документация
+egroupware application	syncml	ru	Приложение EGroupware
+enforce server	syncml	ru	Назначить сервер
+events	syncml	ru	События
+events from selected calendars will be synchronized.	syncml	ru	Сообщения выбранных календарей будут синхронизированы
+for <b>max entries</b> = 0 either <i>maxmsgsize</i> will be used or the default value 10.<br/>	syncml	ru	Для <b>Max Entries</b> = 0 будет использовано любое <i>maxMsgSize</i> или значение по умолчанию 10.<br/>
+for <b>max entries</b> = 0 either <i>maxmsgsize</i> will be used or the default value 10.<br/>with <b>non blocking allday events</b> set allday events will be nonblocking when imported from this device.<br/>the <b>uid extension</b> enables the preservation of vcalandar uids by appending them to <i>description</i> field for this device.<br/>the selected <b>time zone</b> is used for calendar event syncronization with the device. if not set, the timezones of the events are used.	syncml	ru	При <b>Max Entries</b> = 0 будет использовано или <i>maxMsgSize</i> или значение по умолчанию 10.<br/>При установке <b>Non-blocking all day events</b> все события дня будут неблокирующими если импортированы с этого устройства.<br/><b>UID Extension</b> разрешает сохранение vCalendar UIDs добавлением его к  полю <i>Description</i> для этого устройства.<br/>Выбранная <b>временная зона</b> используется для синхронизации событий календаря с устройством. Если не установлено, используется временная зона события.
+if enabled, egroupware will allow only devices which are allowed by the administrator.	syncml	ru	Если установлено, EGroupware примет только разрешенные администратором устройства
+if enabled, egroupware will ignore the mapping information of fromer sync-sessions during slowsyncs.	syncml	ru	Если включено, EGroupware игнорирует отображение информации от предыдущих сессий синхронизации по SlowSync.
+if you select <b>duplicates</b> as conflict resolution, you may want to assign a certain <b>category</b> for these data items. if egroupware detects a collision, it will assign the old server item to the selected <i>conflict category</i> and replace the original item with the clients content.	syncml	ru	Если выбрать <b>дублирует</b> как разрешение конфликтов, может потребоваться назначить отдельную  <b>категорию</b> для таких объектов. Если EGroupware обнаружит коллизию, то назначит старому объекту выбранную <i>конфликтную категорию</i> и заменит оригинальный объект содержимым клиента.
+ignore client	syncml	ru	Игнорировать клиента
+infolog conflict category	syncml	ru	Категория конфликтов ИнфоЖурнала
+items are changed on both &mdash; server and client side &mdash; before the next synchronization, this is called a conflict situation. you can configure the conflict handling of egroupware for every target individually. there are three different ways to handle colliding client changes:<br>	syncml	ru	Объекты, измененные на обеих - сервера и клиента - сторонах до следующей синхронизации, вызывают конфликтную ситуацию. Вы должны настроить обработку конфликтов в EGroupware для каждой цели индивидуально. Существует три возможных метода обработки конфликтующих изменений:
+jobs	syncml	ru	Работы
+merge data	syncml	ru	Совместить данные
+minimum accepted uid length	syncml	ru	Минимальная принятая длина UID
+minimum uid length	syncml	ru	Минимальная длина UID
+not rejected	syncml	ru	Не отвергнуто
+note synchronization options	syncml	ru	Отметить параметры синхронизации
+notes	syncml	ru	Заметки
+notes (infolog)	syncml	ru	Заметки (ИнфоЖурнала)
+only entries from this addressbook (and the above list) will be synchronized.	syncml	ru	Будут синхронизированы только записи из этой адресной книги - и вышеуказанного списка
+only events matching this filter criteria will be synchronized.	syncml	ru	Будут синхронизированы только события, отвечающие критерию фильтра
+only events up to this number of seconds in the future will be synchonized (65000000 seconds > 2 years).	syncml	ru	Будут синхронизированы только события из будущего на заданное число секунд. 65000000 секунд > 2 года.
+only notes matching this filter criteria will be synchronized.	syncml	ru	Будут синхронизированы только заметки, отвечающие критерию фильтра
+only tasks matching this filter criteria will be synchronized.	syncml	ru	Будут синхронизированы только задачи, отвечающие критерию фильтра
+owner too	syncml	ru	А также владелец
+preferences for the syncml	syncml	ru	Настройки SyncML
+preferences for the syncml conflict handling<br/>and server r/o options	syncml	ru	Настройки для обработки конфликтов SyncML<br/>и параметры R/O сервера
+primary group	syncml	ru	Основная группа
+remote database names	syncml	ru	Имена удаленных баз данных
+resolv with duplicates	syncml	ru	Разрешать дублирование
+scal	syncml	ru	scal
+scard	syncml	ru	scard
+server location/url	syncml	ru	Местонахождение сервера/URL
+server wins	syncml	ru	Сервер победит
+settings for	syncml	ru	Установки для
+sifcalendar	syncml	ru	sifcalendar
+sifcontacts	syncml	ru	sifcontacts
+sifnotes	syncml	ru	sifnotes
+siftasks	syncml	ru	siftasks
+slowsync ignore map	syncml	ru	SlowSync игнорирует отображение
+snote	syncml	ru	snote
+stask	syncml	ru	stask
+synchronize this addressbook	syncml	ru	Синхронизировать эту адресную книгу
+synchronize this list	syncml	ru	Синхронизировать этот список
+synchronize this selection	syncml	ru	Синхронизировать этот выбор
+syncml preferences	syncml	ru	Настройки SyncML
+syncronization calendars	syncml	ru	Синхронизация календарей
+task (infolog)	syncml	ru	Задача (ИнфоЖурнал)
+task synchronization options	syncml	ru	Параметры синхронизации задач
+tasks	syncml	ru	Задачи
+the client and server data is unchanged (split brain).	syncml	ru	Данные клиента и сервера не меняются (взрыв мозга)
+the next two options will put the server in read only mode. if the client sends changes to the server, you can choose between:	syncml	ru	Две следующие возможности переводят сервер в режим только для чтения. Если клиент отправляет изменения серверу, можно выбрать между:
+the second option relies on the client's cooperation, though. if it gets a change, the server will send its own version of the data back to the client. the client is supposed to roll back the changes this way.	syncml	ru	Вторая возможность основана на взаимодействии с клиентом. Получая изменения, сервер отправляет свою версию данных обратно клиенту. Предполагается, что в этом случае клиент отменяет изменения.
+the server reverts all client changes.	syncml	ru	Сервер отвергает все изменения клиента
+the syncml application	syncml	ru	Приложение SyncML
+the syncml module provides some customization parameters for conflict handling which you can find in your	syncml	ru	SyncML предоставляет некоторые параметры настройки для обработки конфликтов, которые можно найти здесь:
+there are certain settings of the client which you have to adjust for egroupware synchronization:	syncml	ru	Вот некоторые установки клиента, которые можно изменить для синхронизации EGroupware:
+this address list of contacts will be synchronized.	syncml	ru	Этот список контактов будет синхронизирован
+this address list of contacts will be synchronized. if used together with the addressbook option, this list will appended.	syncml	ru	Этот список контактов будет синхронизирован. Если используется совместно с адресной книгой, список будет расширен
+this application does not provide <i>frontend</i> functionality but implements synchronization of various content with external devices via the syncml/http protocol.<br/>this egroupware version does support syncml 1.0, 1.1 and 1.2.<br/>	syncml	ru	Это приложение не предоставляет <i>прямой</i> функциональности, однако осуществляет синхронизацию различного содержимого с внешними мобильными устройствами по протоколу SyncML/HTTP<br/>Данная версия EGroupware поддерживает SyncML 1.0, 1.1 и 1.2<br/>
+to this addressbook category a conflict duplicate will be added.	syncml	ru	В категории этой адресной книги добавляется конфликт дублирования
+to this calendar category a conflict duplicate will be added.	syncml	ru	В категории этого календаря добавляется конфликт дублирования
+vcard is the new format for sync and we recomment to use vcard instead of sif.	syncml	ru	vCard это новый формат для синхронизации и рекомендуется использовать vCard вместо SIF.
+you can synchronize your<ul><li>addressbook</li><li>calendar</li><li>task (infolog)</li><li>notes (infolog)</li></ul>	syncml	ru	Вы можете синхронизировать ваши <ul><li>Контакты</li><li>Календарь</li><li>Задачи (ИнфоЖурнал)</li><li>Заметки (ИнфоЖурнал)</li></ul>
+your calendar will be synchronized up to this number of seconds in the past (2678400 seconds = 31 days).	syncml	ru	Ваш календарь будет синхронизирован на данное количество секунд в прошлое, 2678400 секунд = 31 день.
+your egroupware password	syncml	ru	Ваш пароль EGroupware

@@ -1,0 +1,48 @@
+actions	sitemgr	bg	Действия
+address line 2	sitemgr	bg	Адрес ред 2
+addressbook the contact should be shown	sitemgr	bg	Адресен указател, в който да бъде показан контакта
+all categories	sitemgr	bg	Всички категории
+allow posting of questions	sitemgr	bg	Позволява добавяне на въпроси
+ascending	sitemgr	bg	Възходящо
+bookmarks	sitemgr	bg	Отметки
+comment	sitemgr	bg	Коментар
+contact fields to show	sitemgr	bg	Полета на контакта, които да се показват
+custom	sitemgr	bg	по избор
+custom etemplate for the contactform	sitemgr	bg	eTemplate по избор за формата за контакти
+default	sitemgr	bg	по подразбиране
+delete this file or directory	sitemgr	bg	Изтриване на файла или директорията?
+department	sitemgr	bg	Отдел
+descending	sitemgr	bg	Низходящо
+display contact	sitemgr	bg	Показване на контакт
+email address	sitemgr	bg	E-Mail адрес
+entry deleted	sitemgr	bg	Записът е изтрит
+entry saved	sitemgr	bg	Записът е запазен
+error deleting the entry!!!	sitemgr	bg	Грешка при изтриване!!!
+error saving the entry!!!	sitemgr	bg	Грешка при запис!!!
+error uploading file!	sitemgr	bg	Грешка при качване на файла!
+export	sitemgr	bg	експорт
+fax	sitemgr	bg	Факс
+file successful uploaded.	sitemgr	bg	Файлът е качен успешно.
+filename	sitemgr	bg	Име на файл
+go to	sitemgr	bg	промени в текущ
+id	sitemgr	bg	ИД
+import	sitemgr	bg	Импорт
+knowledge base	sitemgr	bg	База знания
+move to	sitemgr	bg	премести избраните в
+parent	sitemgr	bg	Родителски
+prefix	sitemgr	bg	Префикс
+previous	sitemgr	bg	Предишно
+published	sitemgr	bg	Публикувани
+reload	sitemgr	bg	презареди
+reset	sitemgr	bg	Нулиране
+size	sitemgr	bg	Размер
+state	sitemgr	bg	Област / Щат
+table of contents	sitemgr	bg	Съдържание
+the requested path %1 is not available.	sitemgr	bg	Зададената директория %1 не е достъпна.
+this module displays block from a adddressbook group.	sitemgr	bg	Този модул показва Блок от група на Адресния указател.
+this module displays the current month	sitemgr	bg	Този модул показва текущия месец
+topic	sitemgr	bg	Тема
+unsubscribe	sitemgr	bg	Прекъсва абонамент
+use default	sitemgr	bg	Използване на стойност по подразбиране
+week	sitemgr	bg	Седмица
+zip code	sitemgr	bg	Пощенски код

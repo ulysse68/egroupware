@@ -1,0 +1,200 @@
+%1 %2 in %3	calendar	iw	%1 %2 ב-%3
+%1 records imported	calendar	iw	הובאו %1 רשומות
+%1 records read (not yet imported, you may go back and uncheck test import)	calendar	iw	(נקראו %1 רשומות (הן עוד לא ובאו, אפשר לחזור אחורה ולהוריד את הסימון ליד בדוק ייבוא
+accepted	calendar	iw	התקבל
+action that caused the notify: added, canceled, accepted, rejected, ...	calendar	iw	...הפעולה שגרמה להודעה: נוסף, בוטל, התקבל, נדחה
+actions	calendar	iw	פעולות
+add alarm	calendar	iw	הוסף תזכורת
+added	calendar	iw	נוסף
+alarm	calendar	iw	תזכורת
+alarm for %1 at %2 in %3	calendar	iw	תזכורת עבור %1 ב-%2 ב-%3
+alarm management	calendar	iw	ניהול תזכורות
+alarms	calendar	iw	תזכורות
+all categories	calendar	iw	כל הקטגוריות
+all day	calendar	iw	כל היום
+are you sure you want to delete this country ?	calendar	iw	?בטוח שברצומך למחוק ארץ זה
+are you sure you want to delete this holiday ?	calendar	iw	?בטוח שברצומך למחוק חג זה
+before the event	calendar	iw	לפני הארוע
+birthday	calendar	iw	יום הולדת
+birthdays	admin	iw	ימי הולדת
+calendar event	calendar	iw	אירוע לוח שנה
+calendar holiday management	admin	iw	ניהול חגי לוח שנה
+calendar preferences	calendar	iw	העדיפויות לוח שנה
+calendar settings	admin	iw	הגדרות לוח שנה
+calendar-fieldname	calendar	iw	לוח שנה - שם שדה
+canceled	calendar	iw	מבוטל
+charset of file	calendar	iw	סט תווים של הקובץ
+countries	calendar	iw	ארצות
+country	calendar	iw	ארץ
+create new links	calendar	iw	יצור קישורים חדשים
+csv-fieldname	calendar	iw	CSV-שם-שדה
+csv-filename	calendar	iw	CSV-שם-קובץ
+custom fields	common	iw	שדות מותאמות אישית
+daily	calendar	iw	יומי
+day	calendar	iw	יום
+days	calendar	iw	ימים
+days repeated	calendar	iw	חוזר בימים
+dayview	calendar	iw	תצוגת יומית
+default appointment length (in minutes)	calendar	iw	(אורךהמחדלי של פגישה (בדקות
+default calendar filter	calendar	iw	מסנן מחדלי לוח שנה
+default calendar view	calendar	iw	תצוגה מחדלית של לוח שנה
+default length of newly created events. the length is in minutes, eg. 60 for 1 hour.	calendar	iw	.אורך המחדלי של ארועים חדשים. האורך בדות, למשל 60 דקות במקום שעה 1
+delete series	calendar	iw	מחק סדרה
+deleted	calendar	iw	נמחקו
+display status of events	calendar	iw	הצג סטוטס של אירועים
+displays your default calendar view on the startpage (page you get when you enter egroupware or click on the homepage icon)?	calendar	iw	להציג את לוח השנה המחדלית שלך בעמוד התחלה?
+do you want to be notified about new or changed appointments? you are not notified about changes you made yourself.<br>you can limit the notifications to certain changes only. each item includes all notifications listed above. all modifications include changes of title, description, participants, but no participant responses. if the owner of an event requested any notifcations, he will always get participant responses like acceptions or rejections too.	calendar	iw	ברצונך לקבל הודעות בדבר פגישות חדשות או שינוים בפגישות קימות? תקבל הודעה על שינוים אתה מבצע
+do you want to receive a regulary summary of your appointsments via email?<br>the summary is sent to your standard email-address on the morning of that day or on monday for weekly summarys.<br>it is only sent when you have any appointments on that day or week.	calendar	iw	?ברצונך לקבל סיכום הפגישות שלך בדוא"ל בקביעות
+do you wish to autoload calendar holidays files dynamically?	admin	iw	?ברצונך להטעין קבצי חגים של לוח השנה אוטומטית באופו דינמי
+download	calendar	iw	הורדה
+edit series	calendar	iw	ערוך סדרה
+empty for all	calendar	iw	רוקן עבור כולם
+end date/time	calendar	iw	תאריך/שעה סיום
+enddate	calendar	iw	תאריך סיום
+ends	calendar	iw	מסתיים
+event details follow	calendar	iw	פרטי האירוע בהמשך
+exceptions	calendar	iw	יוצאים מהכלל
+existing links	calendar	iw	קישורים קיימים
+export	calendar	iw	ייצוא
+extended	calendar	iw	מורחב
+extended updates always include the complete event-details. ical's can be imported by certain other calendar-applications.	calendar	iw	.עדכונים מורחבים תמיד כוללים פרטי אירוע שלמים
+fieldseparator	calendar	iw	מפריד שדות
+firstname of person to notify	calendar	iw	שם פרטי של מקבל ההודעה
+format of event updates	calendar	iw	פורמט עדכוני אירוע
+freebusy: unknow user '%1', wrong password or not availible to not loged in users !!!	calendar	iw	!תפוס-פנוי: משתמש לא מוכר '%1', שגיאה בסיסמא או לזמין למשתמשים שלא נכנסו למערכת
+fri	calendar	iw	שיש
+full description	calendar	iw	תיאור מלא
+fullname of person to notify	calendar	iw	שם מלא של האדם להודיע
+global categories	calendar	iw	קטגוריות גובליות
+global public and group public	calendar	iw	ציבור גלובלי וציבור הקבוצה
+global public only	calendar	iw	ציבור גלובלי בלבד
+group planner	calendar	iw	תכנון קבוצתי
+group public only	calendar	iw	ציבור הקבוצה בלבד
+here is your requested alarm.	calendar	iw	.הרי לך התזכורת המבוקשת
+high priority	calendar	iw	עדיפות גבוהה
+history	calendar	iw	היסטוריה
+holiday	calendar	iw	חג
+holiday management	calendar	iw	ניהול חגים
+holidays	calendar	iw	חגים
+hours	calendar	iw	שעות
+if checked holidays falling on a weekend, are taken on the monday after.	calendar	iw	.אם מסומן, חגים החלים בסופי שבוע, מעוברים ליום השני של אחריו
+ignore conflict	calendar	iw	תתעלם מהתנגשות
+import	calendar	iw	ייבא
+import csv-file	common	iw	CSV ייצאו קובץ
+interval	calendar	iw	אינטרול
+last	calendar	iw	אחרון
+lastname of person to notify	calendar	iw	שם משפחה של נמען ההודעה
+link	calendar	iw	קישור
+link to view the event	calendar	iw	קישור לתצוגת האירוע
+links	calendar	iw	קישורים
+location	calendar	iw	מיקום
+location to autoload from	admin	iw	המקום ממנו לטעון אוטומטית
+minutes	calendar	iw	דקות
+modified	calendar	iw	השתנה
+mon	calendar	iw	שני
+monthly	calendar	iw	חודשי
+monthly (by date)	calendar	iw	(חודשי (לפי תאריך
+monthly (by day)	calendar	iw	(חושי (לפי יום
+monthview	calendar	iw	תצוגה חודשית
+no filter	calendar	iw	ללא מסנן
+no matches found	calendar	iw	לא נמצאו התאמות
+no response	calendar	iw	לא התקבלה תגובה
+not	calendar	iw	לא
+notification messages for added events	calendar	iw	קבלת הודעות עבור אירועים שהתווספו
+notification messages for canceled events	calendar	iw	קבלת הודעות עבור ביטול אירועים
+notification messages for modified events	calendar	iw	קבלת הודעות עבור שינוי אירועים
+notification messages for your alarms	calendar	iw	קבלת הודעות עבור  התזכרות שלך
+notification messages for your responses	calendar	iw	קבלת הודעות עבור התגובות שלך
+number of records to read (%1)	calendar	iw	(כמות הרשומות לקרוא (%1
+observance rule	calendar	iw	חוק קיום מצוות
+occurence	calendar	iw	מופע
+old startdate	calendar	iw	תאריך התחלה קודם
+olddate	calendar	iw	תאריך קודם
+on %1 %2 %3 your meeting request for %4	calendar	iw	ב-%1 %2 %3 בקשת הפגידה שלך עבור %4
+on all modification, but responses	calendar	iw	בכל שינוי, פרט לתגובות
+on any time change too	calendar	iw	גם על שינוי לוחות זמנים
+on invitation / cancelation only	calendar	iw	בהזמנה/ביטול בלבד
+on participant responses too	calendar	iw	גם בתגובות משתתפים
+on time change of more than 4 hours too	calendar	iw	גם עבור שינוי לוח זמנים של יותר מ-4 שעות
+one month	calendar	iw	חודש אחד
+one week	calendar	iw	שבוע אחד
+open todo's:	calendar	iw	:פתח משימות
+overlap holiday	calendar	iw	חפפיפה בחגים
+participants	calendar	iw	משתתפים
+password for not loged in users to your freebusy information?	calendar	iw	?סיסמא עבור משתמשים שלא נכנסו למערכת לצפייה בנתוני תפוס/פנוי שלך
+people holiday	calendar	iw	חג עממי
+permission denied	calendar	iw	הגישה אסורה
+planner by category	calendar	iw	מכנן לפי קטגוריה
+planner by user	calendar	iw	מכנן לפי משתמש
+preselected group for entering the planner	calendar	iw	קבוצה שנקבעה מראש לכניסה למתכנן
+previous	calendar	iw	הקודמת
+private and global public	calendar	iw	פרטי וציבור גלובלי
+private and group public	calendar	iw	פרטי וציבור הקבוצה
+private only	calendar	iw	פרטי בלבד
+re-edit event	calendar	iw	ערוך אירוע מחדש
+receive email updates	calendar	iw	קבלת עדכונים בדוא"ל
+receive summary of appointments	calendar	iw	קבלת ביכום פגישות
+recurring event	calendar	iw	אירוע קבוע
+rejected	calendar	iw	נדחה
+repeat type	calendar	iw	סוג חזרה
+repeating event information	calendar	iw	מידע על אירוע חוזר
+repetition	calendar	iw	חזרה
+repetitiondetails (or empty)	calendar	iw	(פרטי החזרה (או ריק)
+reset	calendar	iw	איפוס
+rule	calendar	iw	חוק
+sat	calendar	iw	שבת
+scheduling conflict	calendar	iw	התנגשות זימון
+set a year only for one-time / non-regular holidays.	calendar	iw	.קבע שנה רק בעבור חגים חד-פעמיים או לא רגילים
+set new events to private	calendar	iw	קבע אירועים חדשים כפרטיים
+should new events created as private by default ?	calendar	iw	?האם ליצור אירועים חדשים כפרטיים כברירת מחדל
+should not loged in persons be able to see your freebusy information? you can set an extra password, different from your normal password, to protect this informations. the freebusy information is in ical format and only include the times when you are busy. it does not include the event-name, description or locations. the url to your freebusy information is %1.	calendar	iw	האם לאפשר לאנשים שלא נכנסו למערכת לצפות במידע הפנוי/תפוס שלך? אפשר לקבוע סיסמא שונה
+should the status of the event-participants (accept, reject, ...) be shown in brakets after each participants name ?	calendar	iw	?האם להציג את סטטוס של משתתפי האירוע (קיבל, דחה, ...) בסוגריים אחרי השם של כל משתתף
+show default view on main screen	calendar	iw	הצג תצוגת ברירת המחדל במסך הראשי
+show list of upcoming events	calendar	iw	הצג רשימה של אירועים מתקרבים
+single event	calendar	iw	אירוע בודד
+start date/time	calendar	iw	תאריך/שעת התחלה
+startdate	calendar	iw	תאריך התחלה
+startrecord	calendar	iw	רשומת התחלה
+submit to repository	calendar	iw	הגש למאגר
+sun	calendar	iw	ראש
+tentative	calendar	iw	לא סופי
+test import (show importable records <u>only</u> in browser)	calendar	iw	(בדוק ייבוא (הצג רשומות הניתנו לייבוא בלבד בדפדפן
+this day is shown as first day in the week or month view.	calendar	iw	.יום זה מוצג כיום הראשון בתצוגה שבועית או בתצוגה חודשית
+this defines the end of your dayview. events after this time, are shown below the dayview.	calendar	iw	.זה מגדיר את תצוגת סוץף היום שלך. אירועים המתרחשים אחרי שעה זו מוצגים מתחת לתצוגה יומית
+this defines the start of your dayview. events before this time, are shown above the dayview.<br>this time is also used as a default starttime for new events.	calendar	iw	.זה מגדיר את תצוגת תחילת היום שלך. אירועים לפני שעה זו מוצגים מעל לתצוגה היומית
+this group that is preselected when you enter the planner. you can change it in the planner anytime you want.	calendar	iw	.הקבוצה המובחרת מראש בכל כניסה למתכנן. ניתן לשינוי בכל זמן רצוי.
+this message is sent for canceled or deleted events.	calendar	iw	.הודעה זו נשלחת עבור אירועים מבוטלים או אירועים מחוקים
+this message is sent for modified or moved events.	calendar	iw	.הודעה זו נשלחת עבור אירועים שהשתנו או שהועברו
+this message is sent to every participant of events you own, who has requested notifcations about new events.<br>you can use certain variables which get substituted with the data of the event. the first line is the subject of the email.	calendar	iw	.הודעה זו נשלחת לכל משתתף באירועים אשר בבעלותך, ואשר ביקש הודעה על אירועים חדשים
+this message is sent when you accept, tentative accept or reject an event.	calendar	iw	.הודעה זו נשלחת כאשר אתה מקבל, מקבל זמנית או דוחה אירוע
+this message is sent when you set an alarm for a certain event. include all information you might need.	calendar	iw	.הודעה זו נשלחת כאשר אתה מבקש תזכורת לאירוע מסוים. תכלול את כל המידע שאולי תצטריך
+this module displays the current month	calendar	iw	מודול זה מציג את החודש הנוכחי
+thu	calendar	iw	חמי
+title of the event	calendar	iw	כותרת האירוע
+to many might exceed your execution-time-limit	calendar	iw	יותר מידי עשוי לחרוג מזמן ההרצה המירבי שלך
+to-firstname	calendar	iw	אל-שם פרטי
+to-fullname	calendar	iw	אל-שם מלא
+to-lastname	calendar	iw	אל-שם משפחה
+translation	calendar	iw	תרגום
+tue	calendar	iw	שלי
+two weeks	calendar	iw	שבועיים
+updated	calendar	iw	מעודכן
+use end date	calendar	iw	השתמש בתאריך סיום
+wed	calendar	iw	רבי
+week	calendar	iw	שבוע
+weekday starts on	calendar	iw	-שבוע עבודה מתחיל ב
+weekly	calendar	iw	שבועי
+weekview	calendar	iw	תצוגה שבועית
+which events do you want to see when you enter the calendar.	calendar	iw	?איזה אירועים ברצונך לראות בכניסתך ללוח השנה
+which of calendar view do you want to see, when you start calendar ?	calendar	iw	?איזה תצוגת לוח שנה ברצונך להציג בכניסתך ללוח שנה
+work day ends on	calendar	iw	-שבוע עבודה מסתיים ב
+work day starts on	calendar	iw	-שבוע עבודה מתחיל ב
+yearly	calendar	iw	שנתי
+yearview	calendar	iw	תצוגה שנתית
+you can either set a year or a occurence, not both !!!	calendar	iw	!אפשר לקבוע או שנה או ופע, אבל לא את שניהם
+you can only set a year or a occurence !!!	calendar	iw	!אפשר לקבוע רק שנה טו מופע
+you do not have permission to read this record!	calendar	iw	!אין לך הרשאה לקרוא רשומה זו
+you have a meeting scheduled for %1	calendar	iw	יש לך פגישה המזומת ב-%1
+you need to set either a day or a occurence !!!	calendar	iw	!עליך לקבוע יום או מופע
+your meeting scheduled for %1 has been canceled	calendar	iw	הפגישה שלך לשעה %1 התבטלה
+your meeting that had been scheduled for %1 has been rescheduled to %2	calendar	iw	הפגישה שלך שנקבע ך-%1 נקבע מחדש ל-%2

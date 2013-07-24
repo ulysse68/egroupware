@@ -1,0 +1,123 @@
+--> enter new name	tracker	id	--> masukan nama baru
+accepted	tracker	id	Accepted
+add additionally	tracker	id	add additionally
+add assigned	tracker	id	Add assigned
+add comment	tracker	id	Add comment
+add timesheet entry	tracker	id	Tamba entri lembarwaktu
+after	tracker	id	after
+allow bounties	tracker	id	Allow bounties
+allow voting	tracker	id	Allow voting
+already escalated	tracker	id	already escalated
+amount	tracker	id	Amount
+assigned to	tracker	id	Assigned to
+assigning groups	tracker	id	Assigning groups
+autoassign to	tracker	id	Autoassign to
+bounties	tracker	id	Bounties
+bounty confirmed	tracker	id	Bounty confirmed
+bounty confirmed.	tracker	id	Bounty confirmed.
+bounty deleted	tracker	id	Bounty deleted
+bounty deleted.	tracker	id	Bounty deleted.
+bounty set	tracker	id	Bounty set
+canned response	tracker	id	Canned response
+canned responses	tracker	id	Canned responses
+check all	tracker	id	Check all
+close pending	tracker	id	Close pending
+closed	tracker	id	Closed
+comment by %1 at %2:	tracker	id	Komentar oleh %1 pada %2:
+comments	tracker	id	Comments
+completed	tracker	id	Completed
+configuration	tracker	id	Configuration
+configuration updated.	tracker	id	Configuration updated.
+confirmed	tracker	id	Confirmed
+converted count	tracker	id	converted count
+copy to	tracker	id	Copy to
+create new links	tracker	id	Bikin tautan baru
+created	tracker	id	Created
+creation date	tracker	id	creation date
+creator	tracker	id	Creator
+custom fields	tracker	id	Custom fields
+date opened	tracker	id	Date opened
+define escalations	common	id	Define escalations
+delete this category	tracker	id	hapus kategori ini
+delete this entry	tracker	id	Hapus entri ini
+delete this status	tracker	id	Hapus status ini
+deleted	tracker	id	Deleted
+duplicate	tracker	id	Duplicate
+e-mail notifications	tracker	id	E-Mail notifications
+edit %1	tracker	id	Edit %1
+edit entry	tracker	id	Edit entry
+entry saved	tracker	id	Entry saved
+error saving the entry!!!	tracker	id	Error saving the entry!!!
+escalation	tracker	id	Escalation
+escalation added.	tracker	id	Escalation added.
+escalation deleted.	tracker	id	Escalation deleted.
+escalation saved.	tracker	id	Escalation saved.
+everybody	tracker	id	Everybody
+existing links	tracker	id	Existing links
+field	tracker	id	Field
+fixed	tracker	id	Fixed
+forward to	tracker	id	Forward to
+from	tracker	id	From
+history	tracker	id	History
+html editing	tracker	id	Html editing
+id	tracker	id	ID
+ignore	tracker	id	Ignore
+introduction message	tracker	id	Introduction message
+invalid	tracker	id	Invalid
+item assignee	tracker	id	Item assignee
+item creator	tracker	id	Item creator
+last modified	tracker	id	Last modified
+last reply	tracker	id	last reply
+later	tracker	id	Later
+links	tracker	id	Links
+mail handling	tracker	id	Mail handling
+matching filter	tracker	id	matching filter
+new %1	tracker	id	New %1
+new items	tracker	id	New items
+new ticket submitted by %1 at %2	tracker	id	Tiket baru dikirimkan oleh %1 pada %2
+no change	tracker	id	No change
+non-anonymous users	tracker	id	Non-anonymous users
+noone	tracker	id	Noone
+notification	tracker	id	Notification
+overdue after	tracker	id	Overdue after
+pending	tracker	id	Pending
+permission denied !!!	tracker	id	Ijin ditolak !!!
+port number	tracker	id	Port number
+postponed	tracker	id	Postponed
+print entry	tracker	id	Print entry
+priorities	tracker	id	Priorities
+project selection	tracker	id	Project selection
+projects	tracker	id	Projects
+queue	tracker	id	Queue
+rejected	tracker	id	Rejected
+remind	tracker	id	Remind
+resolution	tracker	id	Resolution
+restriction	tracker	id	Restriction
+select multiple	tracker	id	Select multiple
+sender address	tracker	id	Sender address
+sent autoreplies	tracker	id	Sent autoreplies
+server type	tracker	id	Server type
+set %1	tracker	id	Set %1
+set bounty	tracker	id	Set bounty
+staff	tracker	id	Staff
+state	tracker	id	State
+stati	tracker	id	Stati
+store as	tracker	id	Store as
+summary	tracker	id	Summary
+technicians	tracker	id	Technicians
+ticket count	tracker	id	ticket count
+ticket modified by %1 at %2	tracker	id	Tiket diubah oleh %1 pada %2
+times	tracker	id	Times
+tracker	common	id	Tracking System
+tracker added	tracker	id	Tracker queue added
+tracker admins	tracker	id	Tracker admins
+tracker configuration	tracker	id	Tracker configuration
+tracker deleted	tracker	id	Tracker queue deleted
+tracker queue	tracker	id	Tracker Queue
+tracker-%1 deleted.	tracker	id	Tracker-%1 deleted.
+unchanged	tracker	id	Unchanged
+unrecognized mails	tracker	id	Unrecognized mails
+versions	tracker	id	Versions
+votes	tracker	id	Votes
+wont fix	tracker	id	Wont fix
+you can respond by visiting:	tracker	id	Untuk melihatnya, kunjungi:

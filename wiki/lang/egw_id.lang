@@ -1,0 +1,46 @@
+added	wiki	id	Added
+admins	wiki	id	admins
+anonymous password	admin	id	Anonymous password
+anonymous username	admin	id	anonymous username
+block	wiki	id	Block
+changed	wiki	id	Changed
+columns	wiki	id	Columns
+compute difference	wiki	id	Compute Difference
+current version	wiki	id	Current Version
+deleted	wiki	id	Deleted
+differences in	wiki	id	Differences in
+edit box	wiki	id	Edit box
+editable	admin	id	editable
+editing	wiki	id	Editing
+emailaddress administrator	admin	id	Emailaddress Administrator
+everyone	wiki	id	everyone
+find	wiki	id	Find
+history	wiki	id	history
+history lists	wiki	id	History lists
+history of	wiki	id	History of
+interwikiprefix	admin	id	InterWikiPrefix
+load	wiki	id	Load
+locked	wiki	id	Locked
+newer	wiki	id	Newer
+no never	admin	id	No never
+not set	wiki	id	not set
+older	wiki	id	Older
+preview	wiki	id	Preview
+readable by	wiki	id	Readable by
+readonly	admin	id	readonly
+recent changes	wiki	id	Recent Changes
+richtext	wiki	id	Richtext
+rows	wiki	id	Rows
+search for	wiki	id	Search for
+summary	wiki	id	Summary
+the search returned no result!	wiki	id	Pencarian tidak menghasilkan apapun!
+twin pages	wiki	id	Twin pages
+unblock	wiki	id	Unblock
+users	wiki	id	users
+wiki	common	id	Wiki
+wiki administration	wiki	id	Wiki Administration
+wiki menu	wiki	id	Wiki Menu
+wiki startpage	wiki	id	Wiki startpage
+writable by	wiki	id	Writable by
+yes always	admin	id	Yes always
+your changes	wiki	id	Your changes

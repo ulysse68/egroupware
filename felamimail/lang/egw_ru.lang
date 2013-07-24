@@ -1,0 +1,507 @@
+%1 is not writable by you!	felamimail	ru	%1 недоступно для записи!
+(no subject)	felamimail	ru	(без темы)
+(only cc/bcc)	felamimail	ru	(только копия/скрытая копия)
+(separate multiple addresses by comma)	felamimail	ru	Разделять подряд идущие адреса запятой
+(unknown sender)	felamimail	ru	Неизвестный отправитель
+aborted	felamimail	ru	Прерванный
+activate	felamimail	ru	Активировать
+activate script	felamimail	ru	Активировать скрипт
+activating by date requires a start- and end-date!	felamimail	ru	Активация по дате требует наличия начальной и конечной даты!
+add acl	felamimail	ru	добавить ACL
+add address	felamimail	ru	Добавить адрес
+add rule	felamimail	ru	Добавить правило
+add script	felamimail	ru	Добавить скрипт
+add to %1	felamimail	ru	Добавить в %1
+add to address book	felamimail	ru	добавить в адресную книгу
+add to addressbook	felamimail	ru	добавить в адресную книгу
+adding file to message. please wait!	felamimail	ru	Добавление файла в сообщение.Пожалуйста подождите!!
+additional info	felamimail	ru	Добавочная информация.
+address book	felamimail	ru	Адресная книга
+address book search	felamimail	ru	Поиск по адресной книге
+after message body	felamimail	ru	После текста сообщения
+all address books	felamimail	ru	Все адресные книги
+all folders	felamimail	ru	Все папки
+all messages in folder	felamimail	ru	Все сообщения в папке
+all of	felamimail	ru	Все из
+allow images from external sources in html emails	felamimail	ru	Разрешать изображения из внешних источников в письмах формата HTML
+allways a new window	felamimail	ru	Всегда новое окно
+always show html emails	felamimail	ru	Всегда показывать письма формата HTML
+and	felamimail	ru	и
+any of	felamimail	ru	Любой из
+any status	felamimail	ru	Любое состояние
+anyone	felamimail	ru	Любой
+as a subfolder of	felamimail	ru	Как подпапка
+attach	felamimail	ru	Вложить
+attachments	felamimail	ru	Вложения
+authentication required	felamimail	ru	Требуется идентификация
+auto refresh folder list	felamimail	ru	Автообновление списка папок
+back to folder	felamimail	ru	Обратно в папку
+bad login name or password.	felamimail	ru	Неверное имя пользователя или пароль!
+bad or malformed request. server responded: %s	felamimail	ru	Неверный или нераспознанный запрос. Ответ Сервера: %s
+bad request: %s	felamimail	ru	Неверный запрос: %s
+based upon given criteria, incoming messages can have different background colors in the message list.  this helps to easily distinguish who the messages are from, especially for mailing lists.	felamimail	ru	Основываясь на вышеуказанных правилах, входящие сообщения могут иметь разные цвета заливки в списке сообщений. Это помогает легче определять какое письмо от кого, особенно при использовании почтовых рассылок.
+bcc	felamimail	ru	BCC (скрытая копия)
+before headers	felamimail	ru	Перед заголовком
+between headers and message body	felamimail	ru	Между заголовком и телом сообщения
+body part	felamimail	ru	Часть тела
+by date	felamimail	ru	По дате
+can not send message. no recipient defined!	felamimail	ru	не могу послать сообщение. не указаны получатели!
+can't connect to inbox!!	felamimail	ru	не могу соединиться с INBOX(входящие)
+cc	felamimail	ru	CC (Твердая копия)
+change folder	felamimail	ru	Сменить папку
+check message against next rule also	felamimail	ru	Проверить сообщение также на соответствие следующему правилу
+checkbox	felamimail	ru	Флажок
+choose from vfs	felamimail	ru	Выбрать из from VFS
+clear search	felamimail	ru	очистить поиск
+click here to log back in.	felamimail	ru	Кликните здесь чтобы вернуться
+click here to return to %1	felamimail	ru	Кликните здесь чтобы вернуться к %1
+close all	felamimail	ru	Закрыть все
+close this page	felamimail	ru	Закрыть эту страницу
+close window	felamimail	ru	Закрыть окно
+color	felamimail	ru	Цвет
+compose	felamimail	ru	Новое письмо
+compose as new	felamimail	ru	Создать как новое
+compress folder	felamimail	ru	Сжать папку
+condition	felamimail	ru	Условия
+configuration	felamimail	ru	Конфигурация
+configure a valid imap server in emailadmin for the profile you are using.	felamimail	ru	Настройте правильный IMAP сервер в приложении emailAdmin для профиля, который вы используете
+connection dropped by imap server.	felamimail	ru	Соединение разорвано IMAP сервером
+contact not found!	felamimail	ru	Контакт не найден!
+contains	felamimail	ru	Содержат
+copy or move messages?	felamimail	ru	Скопировать или переместить сообщения
+copying messages to	felamimail	ru	Копирование сообщений в
+could not complete request. reason given: %s	felamimail	ru	Не могу завершить запрос. Возможная Причина: %s
+could not import message:	felamimail	ru	Не могу импортировать сообщение:
+could not open secure connection to the imap server. %s : %s.	felamimail	ru	Не могу открыть защищенное соединение с сервером IMAP. %s : %s
+cram-md5 or digest-md5 requires the auth_sasl package to be installed.	felamimail	ru	CRAM-MD5 и DIGEST-MD5 требуют установленного пакета Auth_SASL.
+create	felamimail	ru	Создать
+create folder	felamimail	ru	Создать папку
+create sent	felamimail	ru	Создать Отправку
+create subfolder	felamimail	ru	Создать подпапку
+create trash	felamimail	ru	Создать trash
+created folder successfully!	felamimail	ru	Папка успешно создана!
+dark blue	felamimail	ru	Темно-синий
+dark cyan	felamimail	ru	Темно-голубой
+dark gray	felamimail	ru	Темно-серый
+dark green	felamimail	ru	Темно-зеленый
+dark magenta	felamimail	ru	Темно-малиновый
+dark yellow	felamimail	ru	Темно-желтый
+date(newest first)	felamimail	ru	Дата (новые - первыми)
+date(oldest first)	felamimail	ru	Дата (старые - первыми)
+days	felamimail	ru	Дни
+deactivate script	felamimail	ru	Отключить скрипт
+default	felamimail	ru	По умолчанию
+default signature	felamimail	ru	Подпись по умолчанию
+default sorting order	felamimail	ru	Порядок сортировки по умолчанию
+delete all	felamimail	ru	Удалить все
+delete folder	felamimail	ru	Удалить папку
+delete script	felamimail	ru	Удалить скрипт
+delete selected	felamimail	ru	Удалить выбранное
+delete selected messages	felamimail	ru	Удалить выбранные сообщения
+delete this folder irreversible?	felamimail	ru	Удалить эту папку без возможности восстановления?
+deleted	felamimail	ru	Удалено
+deleted folder successfully!	felamimail	ru	Папка успешно удалена!
+deleting messages	felamimail	ru	Удаление сообщения
+disable	felamimail	ru	Отключено
+discard	felamimail	ru	Отклонить
+discard message	felamimail	ru	Отклонить сообщение
+display message in new window	felamimail	ru	Показать сообщение в новом окне
+display messages in multiple windows	felamimail	ru	Показать сообщения в нескольких окнах
+display of html emails	felamimail	ru	Показывать письма в формате HTML
+display only when no plain text is available	felamimail	ru	Показывать только если не доступен обычный текст
+display preferences	felamimail	ru	Показать Настройки
+displaying html messages is disabled	felamimail	ru	Показ сообщений как HTML отключен
+do it!	felamimail	ru	Сделайте это!
+do not use sent	felamimail	ru	Не использовать Sent (Отправленные)
+do not use trash	felamimail	ru	Не использовать Trash (Корзина)
+do not validate certificate	felamimail	ru	Не проверять сертификат
+do you really want to delete the '%1' folder?	felamimail	ru	Вы действительно хотите удалить папку %1?
+do you really want to delete the selected accountsettings and the assosiated identity.	felamimail	ru	Вы действительно хотите удалить выбранные настройки Учетной записи и связанного Идентификатора.
+do you really want to delete the selected signatures?	felamimail	ru	Вы действительно хотите удалить выбранную подпись?
+do you really want to move or copy the selected messages to folder:	felamimail	ru	Вы действительно хотите переместить или скопировать выделенное в папку:
+do you really want to move the selected messages to folder:	felamimail	ru	Вы действительно хотите переместить выбранные сообщения в папку:
+do you want to be asked for confirmation before moving selected messages to another folder?	felamimail	ru	Вы хотите получать запрос на подтверждение перемещения выбранных сообщений в другую папку?
+do you want to prevent the editing/setup for forwarding of mails via settings (, even if sieve is enabled)?	felamimail	ru	Вы хотите предотвратить редактирование/установку пересылки почты с помощью установок, даже если SIEVE включен?
+do you want to prevent the editing/setup of filter rules (, even if sieve is enabled)?	felamimail	ru	Вы хотите предотвратить редактирование/установку правил фильтрации, даже если SIEVE включен?
+do you want to prevent the editing/setup of notification by mail to other emailadresses if emails arrive (, even if sieve is enabled)?	felamimail	ru	Вы хотите предотвратить редактирование/установку уведомлений по эл.почте на другие адреса эл.почты когда приходят сообщения, даже если SIEVE включен?
+do you want to prevent the editing/setup of the absent/vacation notice (, even if sieve is enabled)?	felamimail	ru	Вы хотите предотвратить редактирование/установку автоответчика,даже если SIEVE включен?
+do you want to prevent the managing of folders (creation, accessrights and subscribtion)?	felamimail	ru	Вы хотите предотвратить управление папками-создание, права доступа и подписки?
+does not contain	felamimail	ru	Не содержит
+does not exist on imap server.	felamimail	ru	Не существует на сервере IMAP.
+does not match	felamimail	ru	Не совпадает
+does not match regexp	felamimail	ru	Не совпадает регулярное выражение
+don't use draft folder	felamimail	ru	Не использовать папку Draft (Черновики)
+don't use sent	felamimail	ru	Не использовать папку Sent (Отправленные)
+don't use template folder	felamimail	ru	Не использовать папку шаблонов
+don't use trash	felamimail	ru	Не использовать Trash (Корзина)
+dont strip any tags	felamimail	ru	Не сбрасывать никакие тэги
+down	felamimail	ru	Вниз
+download	felamimail	ru	Загрузить (скачать)
+download this as a file	felamimail	ru	Скачать этот файл
+draft folder	felamimail	ru	Каталог черновиков
+drafts	felamimail	ru	Черновики
+e-mail	felamimail	ru	Эл.почта
+e-mail address	felamimail	ru	Адрес эл. почты
+e-mail folders	felamimail	ru	Папки эл. почты
+edit email forwarding address	felamimail	ru	Редактировать адрес перенаправления эл. почты
+edit filter	felamimail	ru	Редактировать фильтр
+edit rule	felamimail	ru	Редактировать правило
+edit selected	felamimail	ru	Редактировать выбранное
+edit vacation settings	felamimail	ru	Редактировать настройки на случай отсутствия
+editor type	felamimail	ru	Тип редактора
+email address	felamimail	ru	Адрес электроной почты
+email forwarding address	felamimail	ru	Адрес для перенаправления  почты
+email notification update failed	felamimail	ru	Неудачное обновление уведомления по почте
+email signature	felamimail	ru	Подпись электронного письма
+emailaddress	felamimail	ru	Адрес электронной почты
+empty trash	felamimail	ru	Очистить корзину
+enable	felamimail	ru	Включить
+encrypted connection	felamimail	ru	Зашифрованное соединение
+enter your default mail domain ( from: user@domain )	admin	ru	Ведите ваш почтовый домен по умолчанию (От: user@domain)
+enter your imap mail server hostname or ip address	admin	ru	Укажите имя или IP адрес вашего сервера IMAP
+enter your sieve server hostname or ip address	admin	ru	Укажите имя или IP адрес вашего сервера SIEVE
+enter your sieve server port	admin	ru	Укажите порт сервера SIEVE
+enter your smtp server hostname or ip address	admin	ru	Укажите имя или IP адрес вашего сервера SMTP
+enter your smtp server port	admin	ru	Укажите порт сервера SMTP
+entry saved	felamimail	ru	Запись сохранена.
+error	felamimail	ru	ОШИБКА
+error connecting to imap serv	felamimail	ru	Ошибка соединения с сервером IMAP
+error connecting to imap server. %s : %s.	felamimail	ru	Ошибка соединения с сервером IMAP. %s : %s.
+error connecting to imap server: [%s] %s.	felamimail	ru	Ошибка соединения с сервером IMAP: [%s] %s.
+error creating rule while trying to use forward/redirect.	felamimail	ru	Ошибка создания правила при попытке использования пересылки/перенаправления
+error opening	felamimail	ru	Ошибка открытия!
+error saving %1!	felamimail	ru	Ошибка сохранения %1!
+error:	felamimail	ru	Ошибка:
+error: could not save message as draft	felamimail	ru	Ошибка: Не могу сохранить Сообщение как Черновик
+error: could not save rule	felamimail	ru	Ошибка: Не могу сохранить правило.
+error: message could not be displayed.	felamimail	ru	ОШИБКА: Сообщение не может быть показано.
+every	felamimail	ru	Каждый
+every %1 days	felamimail	ru	Каждые %1 дни
+expunge	felamimail	ru	Вычеркнуть
+extended	felamimail	ru	Расширенный
+felamimail	common	ru	Почта FelaMi
+file into	felamimail	ru	В файл
+filemanager	felamimail	ru	Файловый менеджер
+files	felamimail	ru	Файлы
+filter active	felamimail	ru	Фильтр активирован
+filter name	felamimail	ru	Имя фильтра
+filter rules	common	ru	Правила фильтрования
+first name	felamimail	ru	Имя
+flagged	felamimail	ru	Отмечено флажком
+flags	felamimail	ru	Флажки
+folder	felamimail	ru	Папка
+folder acl	felamimail	ru	ACL папки
+folder name	felamimail	ru	Имя папки
+folder path	felamimail	ru	Путь Папки
+folder preferences	felamimail	ru	Настройки Папки
+folder settings	felamimail	ru	Установки папки
+folder status	felamimail	ru	Состояние папки
+folderlist	felamimail	ru	Список папок
+foldername	felamimail	ru	Имя папки
+folders	felamimail	ru	Папки
+folders created successfully!	felamimail	ru	Папки созданы успешно!
+follow	felamimail	ru	следовать
+for mail to be send - not functional yet	felamimail	ru	Для писем подготовленных к отправке - пока не работает
+for received mail	felamimail	ru	Для принятого письма
+forward	felamimail	ru	Переслать
+forward as attachment	felamimail	ru	Переслать как вложение
+forward inline	felamimail	ru	Переслать как есть
+forward messages to	felamimail	ru	Переслать сообщения
+forward to	felamimail	ru	Переслать
+forward to address	felamimail	ru	Переслать на адрес
+forwarding	felamimail	ru	Пересылка
+found	felamimail	ru	Найдено
+from	felamimail	ru	От
+from(a->z)	felamimail	ru	От (А->Я)
+from(z->a)	felamimail	ru	От (Я->А)
+full name	felamimail	ru	Полное имя
+greater than	felamimail	ru	Больше чем
+have a look at <a href="http://www.felamimail.org" target="_new">www.felamimail.org</a> to learn more about squirrelmail.<br>	felamimail	ru	Чтобы узнать больше о Squirrelmail посетите страницу <a href="http://www.felamimail.org" target="_new">www.felamimail.org</a>.<br>
+header lines	felamimail	ru	Строки заголовка
+hide header	felamimail	ru	Скрыть заголовок
+hostname / address	felamimail	ru	Имя компьютера / адрес
+how to forward messages	felamimail	ru	Как перенаправлять сообщения
+html	felamimail	ru	HTML
+icons and text	felamimail	ru	Пиктограммы и подписи
+icons only	felamimail	ru	Только пиктограммы
+identifying name	felamimail	ru	Имя для идентификации
+identity	felamimail	ru	Идентификация
+if	felamimail	ru	ЕСЛИ
+if from contains	felamimail	ru	Если поле ОТ содержит
+if mail header	felamimail	ru	Если заголовок письма
+if message size	felamimail	ru	Если размер сообщения
+if shown, which folders should appear on main screen	felamimail	ru	если показано, какие папки следует выводить на основной экран
+if subject contains	felamimail	ru	Если поле Предмет содержит
+if to contains	felamimail	ru	Если поле Кому содержит
+if using ssl or tls, you must have the php openssl extension loaded.	felamimail	ru	При использовании SSL либо TLS, у вас должно быть загружено расширение PHP openssl
+illegal folder name.  please select a different name.	felamimail	ru	Недопустимое имя папки. Пожалуйста выберите другое.
+imap	felamimail	ru	IMAP
+imap server	felamimail	ru	Сервер IMAP
+imap server address	felamimail	ru	Адрес Сервера IMAP
+imap server closed the connection.	felamimail	ru	Сервер IMAP разорвал соединение.
+imap server closed the connection. server responded: %s	felamimail	ru	Сервер IMAP разорвал соединение. Ответ сервера: %s
+imap server password	felamimail	ru	Пароль сервера IMAP
+imap server type	felamimail	ru	Тип Сервера IMAP
+imap server username	felamimail	ru	Имя пользователя сервера IMAP
+imaps authentication	felamimail	ru	Авторизация IMAPS
+imaps encryption only	felamimail	ru	Шифрование только IMAPS
+import	felamimail	ru	Импорт
+import mail	felamimail	ru	Импортировать почту
+import message	felamimail	ru	Импортировать сообщение
+in	felamimail	ru	в
+inbox	felamimail	ru	Входящие (INBOX)
+incoming mail server(imap)	felamimail	ru	Сервер входящих сообщений (IMAP)
+index order	felamimail	ru	Порядок Индексации
+info	felamimail	ru	Информация
+invalid user name or password	felamimail	ru	Неверно указаны имя пользователя или пароль
+javascript	felamimail	ru	JavaScript
+jumping to end	felamimail	ru	Перейти в конец
+jumping to start	felamimail	ru	Перейти к началу
+junk	felamimail	ru	Спам
+keep a copy of the message in your inbox	felamimail	ru	Хранить копию сообщений в вашей папке Входящие (inbox)
+keep local copy of email	felamimail	ru	Хранить локальную копию эл. письма
+kilobytes	felamimail	ru	Килобайт
+language	felamimail	ru	Язык
+last name	felamimail	ru	Фамилия
+left	felamimail	ru	Левый
+less	felamimail	ru	Меньше
+less than	felamimail	ru	Меньше чем
+light gray	felamimail	ru	Светло-серый
+list all	felamimail	ru	Показать все
+loading	felamimail	ru	Загружаю
+location of buttons when composing	felamimail	ru	Расположение кнопок при создании письма
+mail server login type	admin	ru	Тип входа сервера почты
+mail settings	felamimail	ru	Настройки почты
+mainmessage	felamimail	ru	Основное сообщение
+manage email accounts and identities	common	ru	Управление учетными записями
+manage emailaccounts	common	ru	Управление учетными записями эл. почты
+manage emailfilter / vacation	preferences	ru	Управлять Фильтром/Отказом
+manage folders	common	ru	Управление папками
+manage sieve	common	ru	Управление скриптами фильтрации почты Sieve
+manage signatures	felamimail	ru	Управление подписями
+mark as deleted	felamimail	ru	Отметить как стертое
+mark messages as	felamimail	ru	Отметить выбранное сообщение как
+mark selected as flagged	felamimail	ru	Отметить флажком
+mark selected as read	felamimail	ru	Отметить как прочтенное
+mark selected as unflagged	felamimail	ru	Снять флажок
+mark selected as unread	felamimail	ru	Отметить как не прочтенное
+match	felamimail	ru	Совпадает
+matches	felamimail	ru	Совпадения
+matches regexp	felamimail	ru	Совпадает с регулярным выражением
+max uploadsize	felamimail	ru	Максимальный размер загрузки
+message highlighting	felamimail	ru	Подсветка Сообщений
+message list	felamimail	ru	Список Сообщений
+messages	felamimail	ru	Сообщения
+move	felamimail	ru	Переместить
+move folder	felamimail	ru	Переместить папку
+move messages	felamimail	ru	Переместить сообщения
+move messages?	felamimail	ru	Переместить сообщения
+move selected to	felamimail	ru	Переместить выбранное в
+move to trash	felamimail	ru	Переместить в корзину
+moving messages to	felamimail	ru	Перемещение сообщений в
+name	felamimail	ru	Имя
+never display html emails	felamimail	ru	Никогда не показывать эл. письма в формате HTML
+new	common	ru	Новое
+new filter	felamimail	ru	Новый фильтр
+next	felamimail	ru	Следующее
+next message	felamimail	ru	Следующее сообщение
+no active imap server found!!	felamimail	ru	Не обнаружен действующий сервер IMAP
+no address to/cc/bcc supplied, and no folder to save message to provided.	felamimail	ru	нет адреса в поле кому/копия/скрытая копия/ и нет папки для сохранения сообщения
+no encryption	felamimail	ru	Без шифрования
+no filter	felamimail	ru	Без Фильтра
+no folders	felamimail	ru	Нет папок
+no folders found	felamimail	ru	Папки не найдены
+no folders were found to subscribe to!	felamimail	ru	Не обнаружено папок для подписки!
+no folders were found to unsubscribe from!	felamimail	ru	Не обнаружено папок для отказа от подписки!
+no highlighting is defined	felamimail	ru	Подсветка не определена
+no imap server host configured!!	felamimail	ru	Не настроен почтовый сервер IMAP!
+no message returned.	felamimail	ru	Нет ответного сообщения.
+no messages found...	felamimail	ru	Сообщения не найдены...
+no messages selected, or lost selection. changing to folder	felamimail	ru	Сообщения не выбраны либо выбор утерян. Переход к папке
+no messages were selected.	felamimail	ru	Сообщения не выбраны
+no plain text part found	felamimail	ru	Не найдена текстовая часть
+no previous message	felamimail	ru	Нет предыдущего Сообщения
+no recipient address given!	felamimail	ru	Не указан адрес получателя!
+no signature	felamimail	ru	Без подписи!
+no stationery	felamimail	ru	Нет бланков!
+no subject given!	felamimail	ru	Тема не указана!
+no supported imap authentication method could be found.	felamimail	ru	Не может быть найден поддерживаемый метод IMAP авторизации.
+no valid data to create mailprofile!!	felamimail	ru	Нет правильных данных для создания профиля эл.почты!
+no valid emailprofile selected!!	felamimail	ru	Не выбран правильный профиль эл. почты!!
+none	felamimail	ru	Ничего
+none, create all	felamimail	ru	Нет, создать всё
+not allowed	felamimail	ru	Не допускается
+on	felamimail	ru	На
+on behalf of	felamimail	ru	От имени
+one address is not valid	felamimail	ru	Один из адресов неверен
+only inbox	felamimail	ru	Только Входящие (INBOX)
+only one window	felamimail	ru	Только одно окно
+only unseen	felamimail	ru	Только не просмотренные
+open all	felamimail	ru	Открыть все
+options	felamimail	ru	Настройки
+or	felamimail	ru	Или
+or configure an valid imap server connection using the manage accounts/identities preference in the sidebox menu.	felamimail	ru	Или настроить соединение с действующим IMAP сервером используя управление учетными записями в боковом меню.
+organisation	felamimail	ru	Организация
+organization	felamimail	ru	Организация
+organization name	admin	ru	Название организации
+original message	felamimail	ru	Исходное сообщение
+outgoing mail server(smtp)	felamimail	ru	Сервер исходящих сообщений (SMTP)
+participants	felamimail	ru	Участники
+personal information	felamimail	ru	Личная Информация
+please ask the administrator to correct the emailadmin imap server settings for you.	felamimail	ru	Узнайте у администратора правильные настройки  IMAP сервера
+please configure access to an existing individual imap account.	felamimail	ru	Настроить доступ к существующей учетной записи IMAP
+please select a address	felamimail	ru	Пожалуйста выберите адрес
+please select the number of days to wait between responses	felamimail	ru	Пожалуйста выберите количество дней ожидания между ответами
+please supply the message to send with auto-responses	felamimail	ru	Пожалуйста введите сообщение для отправки автоответа
+port	felamimail	ru	Порт
+posting	felamimail	ru	Публикация
+preview disabled for folder:	felamimail	ru	Просмотр отключен для папки:
+previous	felamimail	ru	Предыдущий
+previous message	felamimail	ru	Предыдущее сообщение
+print it	felamimail	ru	Распечатать
+print this page	felamimail	ru	Распечатать страницу
+printview	felamimail	ru	Предварительный просмотр
+quicksearch	felamimail	ru	Быстрый поиск
+read	felamimail	ru	Прочитано
+reading	felamimail	ru	Чтение
+receive notification	felamimail	ru	Получать напоминания
+recent	felamimail	ru	Недавнее
+refresh time in minutes	felamimail	ru	Время обновления в минутах
+reject with	felamimail	ru	Отклонить с
+remove	felamimail	ru	Удалить
+remove immediately	felamimail	ru	Удалить немедленно
+rename	felamimail	ru	Переименовать
+rename a folder	felamimail	ru	Переименовать папку
+rename folder	felamimail	ru	Переименовать папку
+renamed successfully!	felamimail	ru	Успешно переименовано!
+replied	felamimail	ru	Был ответ
+reply	felamimail	ru	Ответить
+reply all	felamimail	ru	Ответить всем
+reply to	felamimail	ru	Ответить
+replyto	felamimail	ru	Ответить
+respond	felamimail	ru	Ответ
+respond to mail sent to	felamimail	ru	ответить на письмо посланное
+return	felamimail	ru	Вернуться
+return to options page	felamimail	ru	Вернуться на страницу настроек
+right	felamimail	ru	Вправо
+row order style	felamimail	ru	Порядок сортировки строк
+rule	felamimail	ru	Правило
+save	felamimail	ru	Сохранить
+save all	felamimail	ru	Сохранить всё
+save as draft	felamimail	ru	Сохранить как черновик
+save as infolog	felamimail	ru	Сохранить в ИнфоЖурнале
+save changes	felamimail	ru	Сохранить изменения
+save message to disk	felamimail	ru	Сохранить сообщение на диск
+script name	felamimail	ru	Имя скрипта
+script status	felamimail	ru	Состояние скрипта
+search	felamimail	ru	Поиск
+search for	felamimail	ru	Искать
+select	felamimail	ru	Выбрать
+select a message to switch on its preview (click on subject)	felamimail	ru	Выберите сообщение для предварительного просмотра (кликнув по нему)
+select all	felamimail	ru	Выбрать Все
+select emailprofile	felamimail	ru	Выбрать профиль эл. почты
+select folder	felamimail	ru	Выбрать папку
+select your mail server type	admin	ru	Выберите тип вашего сервера почты
+send	felamimail	ru	Отправить
+send a reject message	felamimail	ru	Отправить сообщение об отказе
+sent	felamimail	ru	Отправлено
+sent folder	felamimail	ru	Отправленные
+server supports mailfilter(sieve)	felamimail	ru	Сервер поддерживает фильтрацию почты (sieve)
+set as default	felamimail	ru	Установить по умолчанию
+show header	felamimail	ru	Показать заголовок
+show new messages on main screen	felamimail	ru	Показывать новые сообщения на основном экране
+sieve script name	felamimail	ru	название скрипта sieve
+sieve settings	admin	ru	Настройки Sieve
+signatur	felamimail	ru	Подпись
+signature	felamimail	ru	Подпись
+simply click the target-folder	felamimail	ru	Простой щелчок на папке назначения
+size	felamimail	ru	Размер
+size of editor window	felamimail	ru	Размер окна редактирования
+size(...->0)	felamimail	ru	Размер (...->0)
+size(0->...)	felamimail	ru	Размер (0->...)
+skipping forward	felamimail	ru	Перейти вперед
+skipping previous	felamimail	ru	Пропустить  предыдущие(?)
+small view	felamimail	ru	просмотр в небольшом окне
+smtp settings	admin	ru	Параметры SMTP
+start new messages with mime type plain/text or html?	felamimail	ru	новые сообщения начинать как текст или html?
+stationery	felamimail	ru	Бланк
+subject	felamimail	ru	Тема
+subject(a->z)	felamimail	ru	Тема (А->Я)
+subject(z->a)	felamimail	ru	Тема (Я->А)
+submit	felamimail	ru	Отправить(подтвердить)
+subscribe	felamimail	ru	Подписаться
+subscribed	felamimail	ru	Подписано
+subscribed successfully!	felamimail	ru	Подписались успешно!
+system signature	felamimail	ru	Системная подпись
+table of contents	felamimail	ru	Содержание
+template folder	felamimail	ru	Папка шаблонов
+templates	felamimail	ru	Шаблоны
+text only	felamimail	ru	Только текст
+text/plain	felamimail	ru	Простой текст
+the action will be applied to all messages of the current folder.\ndo you want to proceed?	felamimail	ru	Действие будет применено ко всем письмам в текущей папке.\nПродолжить?
+the connection to the imap server failed!!	felamimail	ru	Соединиться с сервером IMAP не удалось!!
+the imap server does not appear to support the authentication method selected. please contact your system administrator.	felamimail	ru	Сервер IMAP не поддерживает выбранный метод авторизации. Пожалуйста свяжитесь с системным администратором.
+the message sender has requested a response to indicate that you have read this message. would you like to send a receipt?	felamimail	ru	Отправитель сообщения затребовал уведомление о прочтении сообщения. Вы хотите послать подтверждение о прочтении?
+the mimeparser can not parse this message.	felamimail	ru	Обработчик MIME не может обработать это сообщение.
+then	felamimail	ru	Тогда
+there is no imap server configured.	felamimail	ru	Нет настроенного сервера IMAP.
+this folder is empty	felamimail	ru	Эта папка пуста
+this php has no imap support compiled in!!	felamimail	ru	Эта версия PHP собрана без поддержки IMAP!!
+to	felamimail	ru	Кому
+to mail sent to	felamimail	ru	Отправить сообщение получателю
+to use a tls connection, you must be running a version of php 5.1.0 or higher.	felamimail	ru	Для использования соединения TLS, у вас должен быть запущен PHP версии 5.1.0 или выше.
+translation preferences	felamimail	ru	Настройки перевода
+translation server	felamimail	ru	Сервер перевода
+trash	felamimail	ru	Корзина
+trash fold	felamimail	ru	Папка Корзина
+trash folder	felamimail	ru	Папка Корзина
+type	felamimail	ru	Тип
+unexpected response from server to authenticate command.	felamimail	ru	Непредусмотренный ответ сервера на команду AUTHENTICATE
+unexpected response from server to digest-md5 response.	felamimail	ru	Непредусмотренный ответ сервера на сообщение Digest-MD5
+unexpected response from server to login command.	felamimail	ru	Непредусмотренный ответ сервера на команду LOGIN
+unflagged	felamimail	ru	Не отмечено флажком
+unknown err	felamimail	ru	Неизвестная ошибка
+unknown error	felamimail	ru	Неизвестная ошибка
+unknown imap response from the server. server responded: %s	felamimail	ru	Неизвестный ответ сервера IMAP. Сервер ответил: %s
+unknown sender	felamimail	ru	Неизвестный отправитель
+unknown user or password incorrect.	felamimail	ru	Неизвестный пользователь либо неверный пароль
+unread	common	ru	Не прочитано
+unseen	felamimail	ru	Не просмотрено
+unselect all	felamimail	ru	Снять все отметки
+unsubscribe	felamimail	ru	Отказаться от подписки
+unsubscribed	felamimail	ru	Отказ от подписки
+unsubscribed successfully!	felamimail	ru	Отписались успешно!
+up	felamimail	ru	Вверх
+updating message status	felamimail	ru	Обновление состояния сообщения.
+updating view	felamimail	ru	Обновление окна просмотра.
+use <a href="%1">emailadmin</a> to create profiles	felamimail	ru	используйте <a href="%1">EmailAdmin</a> для создания профиля
+use a signature	felamimail	ru	Использовать подпись
+use a signature?	felamimail	ru	Использовать подпись?
+use addresses	felamimail	ru	Использовать Адреса
+use custom identities	felamimail	ru	использовать пользовательскую идентификацию
+use custom settings	felamimail	ru	Использовать Пользовательские Настройки
+use regular expressions	felamimail	ru	Использовать регулярные выражения
+use smtp auth	admin	ru	Использовать авторизацию по SMTP
+users can define their own emailaccounts	admin	ru	Пользователь может назначать свои собственные учетные записи эл. почты.
+vacation notice	common	ru	Автоответчик?
+vacation notice is active	felamimail	ru	Автоответчик активен.
+vacation start-date must be before the end-date!	felamimail	ru	Дата начала действия автоответчика должно быть РАНЬШЕ даты окончания!
+validate certificate	felamimail	ru	Проверить сертификат
+view full header	felamimail	ru	Просмотр заголовка полностью
+view header lines	felamimail	ru	Просмотр строк заголовка
+view message	felamimail	ru	Просмотреть сообщение
+viewing full header	felamimail	ru	Просмотр заголовка полностью
+viewing message	felamimail	ru	Просмотр сообщения
+viewing messages	felamimail	ru	Просмотр сообщений
+when deleting messages	felamimail	ru	При удалении сообщений
+which folders (additional to the sent folder) should be displayed using the sent folder view schema	felamimail	ru	Какие дополнительные папки должны быть показаны при использовании схемы "Просмотр папки отправленные".
+which folders - in general - should not be automatically created, if not existing	felamimail	ru	Какие папки не должны автоматически создаваться, если не существуют.
+with message	felamimail	ru	С сообщением
+with message "%1"	felamimail	ru	С сообщением "%1"
+wrap incoming text at	felamimail	ru	Выровнять входящий текст?
+writing	felamimail	ru	Записываю
+wrote	felamimail	ru	Записано
+yes, offer copy option	felamimail	ru	Да, предложить вариант копирования
+you can use %1 for the above start-date and %2 for the end-date.	felamimail	ru	Вы можете использовать %1 в качестве даты начала и %2 в качестве даты окончания.
+you have received a new message on the	felamimail	ru	Вы получили новое сообщение на
+your message to %1 was displayed.	felamimail	ru	Ваше сообщение получателю %1 было показано.

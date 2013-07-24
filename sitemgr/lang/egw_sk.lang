@@ -1,0 +1,76 @@
+add a category	sitemgr	sk	pridať kategóriu
+address line 2	sitemgr	sk	Adresa riadok 2
+addressbook the contact should be shown	sitemgr	sk	Adresár, v ktorom sa má kontakt zobrazovať
+administrators	sitemgr	sk	Správcovia
+all categories	sitemgr	sk	Všetky kategórie
+allow posting of questions	sitemgr	sk	Povoliť posielanie otázok
+as	common	sk	ako
+ascending	sitemgr	sk	Vzostupné
+bookmarks	sitemgr	sk	Záložky
+center	sitemgr	sk	Stred
+choose a category	sitemgr	sk	Vyberte kategóriu
+choose language	sitemgr	sk	Vyberte jazyk
+choose the categories to display	sitemgr	sk	Vyberte, ktoré kategórie zobraziť
+comment	sitemgr	sk	Komentár
+contact fields to show	sitemgr	sk	Ktoré polia kontaktu zobraziť
+custom	sitemgr	sk	Vlastné
+custom etemplate for the contactform	sitemgr	sk	Vlastná eŠablóna pre tento formulár kontaktu
+default	sitemgr	sk	predvolené
+delete this file or directory	sitemgr	sk	Odstrániť tento súbor alebo priečinok
+department	sitemgr	sk	Oddelenie
+descending	sitemgr	sk	Zostupne
+display contact	sitemgr	sk	Zobraziť kontakt
+documentation	sitemgr	sk	Dokumentácia
+email address	sitemgr	sk	E-mailová adresa
+enterprise knowledge articles repository	sitemgr	sk	Podnikový zdroj poznatkov
+entry deleted	sitemgr	sk	Položka bola odstránená
+entry saved	sitemgr	sk	Položka bola uložená
+error deleting the entry!!!	sitemgr	sk	Chyba pri odstraňovaní položky!!!
+error saving the entry!!!	sitemgr	sk	Chyba pri ukladaní položky!!!
+error uploading file!	sitemgr	sk	Chyba počas odovzdávania súboru!
+everybody	sitemgr	sk	Všetci
+export	sitemgr	sk	Export
+fax	sitemgr	sk	Fax
+file successful uploaded.	sitemgr	sk	Súbor bol úspešne odovzdaný.
+filename	sitemgr	sk	Názov súboru
+go to	sitemgr	sk	Choď na
+id	sitemgr	sk	Id
+implies read permission	sitemgr	sk	implikuje právo čítania
+import	sitemgr	sk	Import
+imported	sitemgr	sk	importované
+index	sitemgr	sk	Index
+knowledge base	sitemgr	sk	Poznatková báza
+move to	sitemgr	sk	presunúť vybrané do
+no anonymous user accounts installed.  notify the administrator.	sitemgr	sk	NEBOL NAINŠTALOVANÝ ŽIADNY ANONYMNÝ POUŽÍVATEĽSKÝ ÚČET. POZORNITE SPRÁVCU.
+on all pages	sitemgr	sk	na všetkých stránkach
+only on the first page	sitemgr	sk	iba na prvej stránke
+page content	sitemgr	sk	Obsah stránky
+parent	sitemgr	sk	Rodič
+path	sitemgr	sk	Cesta
+prefix	sitemgr	sk	Titul
+previous	sitemgr	sk	Predchádzajúca
+published	sitemgr	sk	Publikované
+reload	sitemgr	sk	Znovunačítať
+required	sitemgr	sk	Vyžadované
+reset	sitemgr	sk	Vynulovať
+select a category	sitemgr	sk	Vyberte kategóriu
+send emailcopy to receiver	sitemgr	sk	Poslať kópiu e-mailu adresátovi
+show the title of the wiki page	sitemgr	sk	Zobraziť titulok wiki stránky
+site	sitemgr	sk	Stránka
+state	sitemgr	sk	Štát
+table of contents	sitemgr	sk	Obsahová tabuľka
+textarea	sitemgr	sk	Oblasť textu
+the anonymous user needs read it!	sitemgr	sk	Anonymný používateľ by to potreboval čítať!
+the requested path %1 is not available.	sitemgr	sk	Požadované cesta %1 nie je dostupná.
+this module displays block from a adddressbook group.	sitemgr	sk	Tento modul zobrazuje Blok zo skupiny Adresára.
+this module displays bookmarks in a javascript based tree	sitemgr	sk	Tento modul zobrazuje záložky v javaskriptovom strome
+this module displays the current month	sitemgr	sk	Tento modul zobrazuje súčasný mesiac
+topic	sitemgr	sk	Téma
+translate	sitemgr	sk	Preložiť
+unsubscribe	sitemgr	sk	Odhlásiť
+use default	sitemgr	sk	Použiť predvolené
+use this module for displaying wiki-pages	sitemgr	sk	Použiť tento modul pre zobrazovanie stránok wiki
+week	sitemgr	sk	Týždeň
+wiki	sitemgr	sk	Wiki
+wiki startpage	sitemgr	sk	Wiki úvodná stránka
+zip code	sitemgr	sk	PSČ

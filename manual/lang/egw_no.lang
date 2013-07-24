@@ -1,0 +1,10 @@
+%1 manual page(s) added or updated	manual	no	%1 manualside(r) lagt til eller oppdatert
+anonymous password	admin	no	Passord for anonyme brukere
+anonymous username	admin	no	Navn på anonym bruker
+download	manual	no	Nedlasting
+index	manual	no	Indeks
+install or update the manual-pages	admin	no	Installer eller oppdater manualsidene
+manual	common	no	Manual / Hjelp
+page(s) %1 not found !!!	manual	no	Side(r) %1 ikke funnet!
+search for	manual	no	Søk etter
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	no	Starter import fra %1, dette kan ta mange minutter (særlig dersom dette er første gang)

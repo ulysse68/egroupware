@@ -1,0 +1,57 @@
+actions	sitemgr	sv	Åtgärder
+add a category	sitemgr	sv	Lägg till kategori
+address line 2	sitemgr	sv	Adressrad 2
+all categories	sitemgr	sv	Samtliga kategorier
+ascending	sitemgr	sv	Stigande
+bookmarks	sitemgr	sv	Bokmärken
+center	sitemgr	sv	Centrera
+choose a category	sitemgr	sv	Välj kategori
+choose language	sitemgr	sv	Välj språk
+comment	sitemgr	sv	Kommentar
+custom	sitemgr	sv	Anpassade
+default	sitemgr	sv	Standard
+delete category	sitemgr	sv	Radera kategori
+department	sitemgr	sv	Avdelning
+descending	sitemgr	sv	Fallande
+documentation	sitemgr	sv	Dokumentation
+email address	sitemgr	sv	E-postadress
+entry deleted	sitemgr	sv	Posten raderad
+entry saved	sitemgr	sv	Post sparad
+error deleting the entry!!!	sitemgr	sv	Fel uppstod vid radering av posten!
+error saving the entry!!!	sitemgr	sv	Fel uppstod vid sparandet av posten!
+everybody	sitemgr	sv	Alla
+export	sitemgr	sv	Exportera
+fax	sitemgr	sv	Telefax
+filename	sitemgr	sv	Filnamn
+go to	sitemgr	sv	Gå till
+id	sitemgr	sv	ID
+implies read permission	sitemgr	sv	Ger läsrättighet
+import	sitemgr	sv	Importera
+move to	sitemgr	sv	Flytta valda till
+not	common	sv	Inte
+on all pages	sitemgr	sv	På alla sidor
+only on the first page	sitemgr	sv	Bara på första sidan
+path	sitemgr	sv	Sökväg
+prefix	sitemgr	sv	Prefix
+previous	sitemgr	sv	Föregende
+published	sitemgr	sv	Publicerad
+reload	sitemgr	sv	Ladda om
+required	sitemgr	sv	Krävs
+reset	sitemgr	sv	Återställ
+select a category	sitemgr	sv	Välj kategori
+show the title of the wiki page	sitemgr	sv	Visa namnet på Wikisidan
+site	sitemgr	sv	Sajt
+size	sitemgr	sv	Storlek
+state	sitemgr	sv	Län
+table of contents	sitemgr	sv	Innehåll
+textarea	sitemgr	sv	Textruta
+this module displays the current month	sitemgr	sv	Denna modul visar den aktuella månaden
+topic	sitemgr	sv	Ämne
+translate	sitemgr	sv	Översätt
+unsubscribe	sitemgr	sv	Avprenumerera
+use default	sitemgr	sv	Använd standard
+use this module for displaying wiki-pages	sitemgr	sv	Använd modulen för att visa wikisidor
+week	sitemgr	sv	Vecka
+wiki	sitemgr	sv	Wiki
+wiki startpage	sitemgr	sv	Wiki startsida
+zip code	sitemgr	sv	Postnummer

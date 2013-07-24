@@ -1,0 +1,85 @@
+%1 module	news_admin	id	modul %1
+%1 news imported (%2 new).	news_admin	id	%1 berita diimpor (%2 baru).
+%s hours	news_admin	id	%s jam
+actions	news_admin	id	Tindakan
+active	news_admin	id	Aktif
+add new article	news_admin	id	Tambah Artikel baru
+add new news	news_admin	id	Tambah Kabar baru
+add news item	news_admin	id	Tambah item kabar
+all news	news_admin	id	Semua kabar
+always	news_admin	id	Selalu
+by date	news_admin	id	menurut tanggal
+categories to displayed on main page?	news_admin	id	Kategori untuk ditampilkan pada halaman utama?
+category deleted.	news_admin	id	Kategori dihapus.
+category saved.	news_admin	id	Kategori disimpan.
+choose a category	news_admin	id	Pilih kategori
+configuration	news_admin	id	Konfigurasi
+configure access permissions	common	id	Pengaturan ijin akses
+configure rss exports	common	id	Configure RSS exports
+contains html	news_admin	id	Mengandung HTML
+content	news_admin	id	Isi
+count	news_admin	id	Cacah
+date and time	news_admin	id	Tanggal dan waktu
+delete this news	news_admin	id	Hapus kabar ini
+edit news item	news_admin	id	Edit item kabar
+end	news_admin	id	Akhir
+from	news_admin	id	Dari
+from all	news_admin	id	Dari semuanya
+future	news_admin	id	Mendatang
+global categories	news_admin	id	kategori global
+global news	news_admin	id	Kabar Global
+global_news	news_admin	id	Kabar_Global
+headline	news_admin	id	Tajuk
+headline with link	news_admin	id	Tajuk dengan tautan
+image link	news_admin	id	Tautan gambar
+image title	news_admin	id	Judul gambar
+image url	news_admin	id	URL untuk gambar
+import every	news_admin	id	Impor setiap
+import now	news_admin	id	Impor sekarang
+import url	news_admin	id	URL untuk Impor
+item has been deleted	news_admin	id	Berita telah dihapus
+item not found	news_admin	id	Berita tidak ditemukan
+last updated	news_admin	id	Terakhir dikinikan
+link	news_admin	id	Tautan
+main	news_admin	id	Utama
+maintain	news_admin	id	Pemeliharaan
+maintain news	admin	id	Memelihara Kabar
+message has been added	news_admin	id	Pesan telah ditambahkan
+more news	news_admin	id	Kabar lainnya
+more news link	news_admin	id	Tautan Kabar lainnya
+new item has been added	news_admin	id	Berita baru telah ditambahkan
+news	news_admin	id	Kabar
+news admin	news_admin	id	Kabar Berita
+news administration	news_admin	id	Administrasi Kabar
+news deleted.	news_admin	id	Kabar dihapus.
+news item has been added	news_admin	id	Berita telah ditambahkan
+news item has been updated	news_admin	id	Berita telah dikinikan
+news saved.	news_admin	id	Kabar disimpan.
+news_admin	common	id	Kabar Berita
+no anonymous user accounts installed.  notify the administrator.	news_admin	id	NO ANONYMOUS USER ACCOUNTS INSTALLED.  NOTIFY THE ADMINISTRATOR.
+no entries found	news_admin	id	tiada entri
+no matching news item	news_admin	id	Tiada berita yang cocok
+no news	news_admin	id	Tiada kabar tersedia dalam Kategori
+now	news_admin	id	Sekarang
+old	news_admin	id	Lama
+on	news_admin	id	pada
+parent	news_admin	id	Leluhur
+please select a category	news_admin	id	Pilih kategori
+publish date	news_admin	id	Tanggal Penerbitan
+read more	news_admin	id	baca selebihnya
+read news	news_admin	id	Baca kabar
+read permissions	news_admin	id	Ijin membaca
+reload	news_admin	id	Muat ulang
+small view	news_admin	id	tampilan kecil
+start	news_admin	id	Mulai
+submitted by	common	id	Dikirim oleh
+submitted by %1 on %2	news_admin	id	Dikirim oleh %1 pada %2
+teaser	news_admin	id	Icip-icip
+teaser with read more link	news_admin	id	Icip-icip dengan tautan
+the news content is missing	news_admin	id	Isi berita kosong
+the subject is missing	news_admin	id	Subyeknya belum diisi
+until	news_admin	id	hingga
+view this category	news_admin	id	Lihat kategori ini
+visible	news_admin	id	Tampak
+write	news_admin	id	Tulis
+write permissions	news_admin	id	Ijin menulis

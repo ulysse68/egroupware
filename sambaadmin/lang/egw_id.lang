@@ -1,0 +1,19 @@
+add workstation	sambaadmin	id	Add workstation
+computer group	admin	id	Computer group
+computer ou	admin	id	Computer ou
+displayname	sambaadmin	id	Displayname
+homedrive	admin	id	Homedrive
+homepath	sambaadmin	id	Homepath
+logonscript	admin	id	Logon script
+participants	sambaadmin	id	Participants
+profilepath	admin	id	Profilepath
+samba config	sambaadmin	id	Samba config
+samba settings	common	id	Samba settings
+samba sid	admin	id	Samba SID
+sambaadmin	common	id	Sambaadmin
+smb homepath	admin	id	Smb homepath
+workstation configuration	sambaadmin	id	Workstation configuration
+workstation list	sambaadmin	id	Workstation list
+workstation name	sambaadmin	id	Workstation name
+workstationaccount active	sambaadmin	id	Workstation account active
+workstations	sambaadmin	id	Workstations

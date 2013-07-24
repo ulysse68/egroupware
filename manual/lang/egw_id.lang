@@ -1,0 +1,15 @@
+%1 manual page(s) added or updated	manual	id	%1 halaman manual telah ditambahkan atau dikinikan
+allow anonymous access to the manual, only necessary to act as remote manual	admin	id	Allow anonymous access to the manual, only necessary to act as remote manual
+anonymous password	admin	id	Password anonymous
+anonymous username	admin	id	Nama pengguna anonymous
+download	manual	id	unduh
+index	manual	id	Indeks
+install or update the manual-pages	admin	id	install or update the manual-pages
+manual	common	id	Manual/Bantuan
+page(s) %1 not found !!!	manual	id	Halaman %1 tidak ditemukan !!!
+remote egroupware url for the manual to use, empty for a local manual, default	admin	id	Remote eGroupWare URL for the manual to use, empty for a local manual, default
+search for	manual	id	Mencari
+starting import from %1, this might take several minutes (specialy if you start it the first time) ...	manual	id	Starting import from %1, this might take several minutes (specialy if you start it the first time) ...
+the search returned no result!	manual	id	Pencarian tidak menghasilkan apapun!
+update url for the local manual, default	admin	id	Update URL for the local manual, default
+wiki id for the local manual, default 1, 0 to use the wiki to edit the manual pages	admin	id	Wiki Id for the local manual, default 1, 0 to use the wiki to edit the manual pages

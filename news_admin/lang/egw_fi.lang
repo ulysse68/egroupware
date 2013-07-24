@@ -1,0 +1,109 @@
+%1 module	news_admin	fi	%1 moduli
+%s hours	news_admin	fi	%s tuntia
+actions	news_admin	fi	Toiminnot
+active	news_admin	fi	Aktiivinen
+add new article	news_admin	fi	Lisää uusi artikkeli
+add new news	news_admin	fi	Lisää uusi uutinen
+add news item	news_admin	fi	Lisää uutinen
+all news	news_admin	fi	Kaikki uutiset
+always	news_admin	fi	Aina
+by date	news_admin	fi	Päivämäärän mukaan
+categories to displayed on main page?	news_admin	fi	Mitkä kategoriat näytetään etusivulla?
+category deleted.	news_admin	fi	Kategoria poistettu.
+category saved.	news_admin	fi	Kategoria tallennettu.
+choose a category	news_admin	fi	Valitse kategoria
+configuration	news_admin	fi	Uutisten asetukset
+configure access permissions	common	fi	Myönnä ACL-oikeuksia
+configure rss exports	common	fi	RSS viennin asetukset
+contains html	news_admin	fi	Sisältää HTML
+content	news_admin	fi	Sisältö
+count	news_admin	fi	Lukema
+date and time	news_admin	fi	Päivä ja aika
+delete this news	news_admin	fi	Poista tämä uutinen
+do you want to publish a rss feed for this news category	news_admin	fi	Haluatko julkaista RSS syötteen tästä uutis-kategoriasta
+edit news item	news_admin	fi	Muokkaa uutista
+end	news_admin	fi	Loppu
+error importing the feed!	news_admin	fi	Virhe tuotaessa feediä!
+error saving the category!	news_admin	fi	Virhe tallentaessa kategoriaa!
+error saving the news!	news_admin	fi	Virhe tallentaessa uutisia!
+failed to add message	news_admin	fi	Uuden viestin lisääminen epäonnistui
+format for links to items	news_admin	fi	Uutisten linkkien muoto
+format of export	news_admin	fi	Viennin formaatti
+from	news_admin	fi	Keneltä:
+from all	news_admin	fi	Kaikilta
+future	news_admin	fi	Tulevaisuudessa
+global categories	news_admin	fi	Yleiset kategoriat
+global news	news_admin	fi	Yleiset uutiset
+global_news	news_admin	fi	Yleiset_uutiset
+headline	news_admin	fi	Otsikko
+headline with link	news_admin	fi	Otsikko linkillä
+image link	news_admin	fi	Kuva linkki
+image title	news_admin	fi	Kuvan otsikko
+image url	news_admin	fi	Kuvan URL
+implies read permission	news_admin	fi	Sisältää lukuoikeudet
+import every	news_admin	fi	Tuo joka...
+import now	news_admin	fi	Tuo nyt
+import url	news_admin	fi	Tuo URL
+imported feeds can not be writable!	news_admin	fi	Tuodut feedit eivät ole kirjoitettavissa!
+item has been deleted	news_admin	fi	Kohde poistettu
+item not found	news_admin	fi	Kohdetta ei löydetty
+last updated	news_admin	fi	Viimeksi päivitetty
+link	news_admin	fi	Linkki
+main	news_admin	fi	Pääosa
+maintain	news_admin	fi	Ylläpito
+maintain news	admin	fi	Uutisten ylläpito
+message has been added	news_admin	fi	Viesti on lisätty
+more news	news_admin	fi	Lisää uutisia
+more news link	news_admin	fi	Lisää uutisia -linkki
+new item has been added	news_admin	fi	Uusi kohde lisätty
+news	news_admin	fi	Uutiset
+news admin	news_admin	fi	Uutisten ylläpitäjä
+news administration	news_admin	fi	Uutisten hallinta
+news deleted.	news_admin	fi	Uutinen poistettu
+news item has been added	news_admin	fi	Uutinen lisätty
+news item has been updated	news_admin	fi	Uutinen päivitetty
+news saved.	news_admin	fi	Uutinen tallennettu.
+news_admin	common	fi	Uutisten ylläpito
+no anonymous user accounts installed.  notify the administrator.	news_admin	fi	ANONYYMIÄ KÄYTTÄJÄTILIÄ EI ASENNETTUNA, HUOMAUTA YLLÄPITÄJIÄ!
+no entries found	news_admin	fi	Tapahtumia ei löytynyt
+no matching news item	news_admin	fi	Ei vastaavia uutisia
+no news	news_admin	fi	Tässä kategoriassa ei ole tällä hetkellä uutisia
+no rss export	news_admin	fi	Ei RSS -vientiä
+now	news_admin	fi	Nyt
+number of articles to display on the main screen	news_admin	fi	Montako uutista näytetään pääsivulla
+number of news items to be displayed on page	news_admin	fi	Montako uutista näytetään sivulla
+old	news_admin	fi	Vanhat
+page-name the item should be displayed (empty = current page)	news_admin	fi	Sivun nimi, jolla merkintä tulisi näyttää (tyhjä=nykyinen sivu).
+parent	news_admin	fi	Yläkategoria
+picture upload (leave the upload directory empty to disable the upload)	admin	fi	Kuvan lataus (jätä hakemisto tyhjäksi, jos haluat estää lataamiset)
+please select a category	news_admin	fi	Valitse kategoria
+publish date	news_admin	fi	Julkaisupäivä
+read more	news_admin	fi	Lue lisää
+read news	news_admin	fi	Lue uutinen
+read permissions	news_admin	fi	Lukuoikeudet
+reload	news_admin	fi	Päivitä
+send mail to others	news_admin	fi	Lähetä sähköpostina muille
+should news_admin display the latest article headlines on the main screen.	news_admin	fi	Näyttääkö uutistenhallinta viimeisimpien artikkeleiden otsikot etusivulla.
+show latest news articles?	news_admin	fi	Näytetäänkö viimeisimmät uutisartikkelit?
+show news articles on main page?	news_admin	fi	Näytetäänkö uutisartikkelit etusivulla?
+small view	news_admin	fi	Pieni näkymä
+start	news_admin	fi	Alkaa
+submitted by	common	fi	Lähettäjä:
+submitted by %1 on %2	news_admin	fi	Lähetetty %1 %2
+submitted by and date	news_admin	fi	Lähettäjä ja lähetysaika
+teaser	news_admin	fi	Lyhyt uutinen
+teaser with read more link	news_admin	fi	Lyhyt uutinen ja Lue lisää -linkki
+the news content is missing	news_admin	fi	Uutisen sisältö puuttuu
+the number of articles to display on the main screen.	news_admin	fi	Etusivulla näytettävien artikkeleiden määrä
+the subject is missing	news_admin	fi	Uutisen otsikko puuttuu
+there no such translation.	news_admin	fi	Käännöstä ei löydy.
+this module publishes news from the news_admin application on your website. be aware of news_admin's acl restrictions.	news_admin	fi	Tämä moduuli julkaisee uutisia news_admin sovelluksesta nettisivullasi. Tarkista news_admin ACL -oikeudet
+until	news_admin	fi	kunnes
+url of the rss or atom feed, empty for own news feed	news_admin	fi	RSS tai Atom Feedin URL, Jätä tyhjäksi omille Feedeille
+view this category	news_admin	fi	Näytä kategoria
+visible	news_admin	fi	Näkyvä
+webpage news admin	news_admin	fi	Web-uutisten ylläpito
+which information do you want to show (css class)	news_admin	fi	Minkä tiedon haluat näkyvän (CSS luokka)
+which news categories should be displayed on the main screen.	news_admin	fi	Mitkä uutiskategoriat näytetään etusivulla?
+write	news_admin	fi	Kirjoita
+write permissions	news_admin	fi	Kirjoitusoikeudet

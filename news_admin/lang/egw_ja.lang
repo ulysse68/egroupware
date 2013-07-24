@@ -1,0 +1,5 @@
+actions	news_admin	ja	動作
+configuration	news_admin	ja	環境設定
+from	news_admin	ja	差出人
+global categories	news_admin	ja	グローバルカテゴリ
+write	news_admin	ja	Write

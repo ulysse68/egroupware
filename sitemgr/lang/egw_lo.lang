@@ -1,0 +1,22 @@
+add a category	sitemgr	lo	ເພີ່ມໝວດໝູ່
+all categories	sitemgr	lo	ໝວດໝູ່ທັງໝົດ
+comment	sitemgr	lo	ຄວາມຄິດເຫັນ
+default	sitemgr	lo	ຄ່າເລີ່ມຕົ້ນ
+delete category	sitemgr	lo	ລຶບໝວດໝູ່
+delete this file or directory	sitemgr	lo	ລຶບຟາຍ ຫຼື ໄດເລັກເທີລີນີ້
+email address	sitemgr	lo	ທີ່ຢູ່ email
+file successful uploaded.	sitemgr	lo	ການອັບໂຫຼດຟາຍສໍາເລັດ
+filename	sitemgr	lo	ຊື່ຟາຍ
+go to	sitemgr	lo	ໄປທີ່
+id	sitemgr	lo	ລະຫັດ
+implies read permission	sitemgr	lo	ສະແດງເຖິງສິດໃນການອ່ານ
+index	sitemgr	lo	ດັດສະນີ
+move to	sitemgr	lo	ເຄື່ອນຫຍ້າຍໄປ
+previous	sitemgr	lo	ກ່ອນ
+reload	sitemgr	lo	ໂຫຼດໃໝ່
+reset	sitemgr	lo	ຕັ້ງຄ່າຄືນໃໝ່
+select a category	sitemgr	lo	ເລືອກໝວດໝູ່
+site	sitemgr	lo	ໄຊລ
+the requested path %1 is not available.	sitemgr	lo	ການຮ້ອງຂໍເສັ້ນທາງ %1 ບໍ່ສາມາດໃຊ້ໄດ້ແລ້ວ
+use default	sitemgr	lo	ໃຊ້ຄ່າເລີ່ມຕົ້ນ
+week	sitemgr	lo	ອາທິດທີ

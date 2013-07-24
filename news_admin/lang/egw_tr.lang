@@ -1,0 +1,7 @@
+actions	news_admin	tr	Eylemler
+always	news_admin	tr	her zaman
+configuration	news_admin	tr	Ayarlar
+from	news_admin	tr	Nereden
+global categories	news_admin	tr	Genel kategoriler
+link	news_admin	tr	Link
+write	news_admin	tr	Yaz

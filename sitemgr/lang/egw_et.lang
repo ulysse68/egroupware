@@ -1,0 +1,38 @@
+actions	sitemgr	et	Tegevused
+add a category	sitemgr	et	lisa kategooria
+all categories	sitemgr	et	Kõik kategooriad
+allow posting of questions	sitemgr	et	Luba postitada küsimus
+ascending	sitemgr	et	Kasvav
+bookmarks	sitemgr	et	Järjehoidjad
+choose a category	sitemgr	et	Vali kategooria
+choose language	sitemgr	et	Vali Keel
+comment	sitemgr	et	Kommentaar
+default	sitemgr	et	Vaikimisi
+delete category	sitemgr	et	Kustuta kategooria
+descending	sitemgr	et	Kahanev
+documentation	sitemgr	et	Dokumentatsioon
+email address	sitemgr	et	email aadress
+entry saved	sitemgr	et	Kirje salvestatud
+error saving the entry!!!	sitemgr	et	Viga kirje salvestamisel !!!
+everybody	sitemgr	et	Igaüks
+export	sitemgr	et	Eksport
+fax	sitemgr	et	Faks
+filename	sitemgr	et	Failinimi
+id	sitemgr	et	Id
+import	sitemgr	et	Import
+index	sitemgr	et	Sisukord
+knowledge base	sitemgr	et	Teadmiste Baas
+path	sitemgr	et	Teekond
+previous	sitemgr	et	eelmine
+published	sitemgr	et	Avaldatud
+required	sitemgr	et	Nõutav
+reset	sitemgr	et	Tühista
+select a category	sitemgr	et	Vali Kategooria
+site	sitemgr	et	Sait
+size	sitemgr	et	suurus
+state	sitemgr	et	Maakond
+textarea	sitemgr	et	Tekstiväli
+topic	sitemgr	et	Teema
+translate	sitemgr	et	Tõlgi
+use default	sitemgr	et	Kasuta vaikimisi
+week	sitemgr	et	Nädal

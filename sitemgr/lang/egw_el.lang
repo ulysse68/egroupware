@@ -1,0 +1,42 @@
+actions	sitemgr	el	Ενέργειες
+add a category	sitemgr	el	πρόσθεσε μία κατηγορία
+address line 2	sitemgr	el	Γραμμή Διευθύνσεων 2
+all categories	sitemgr	el	Όλες οι κατηγορίες
+choose a category	sitemgr	el	Επιλέξτε μία κατηγορία
+comment	sitemgr	el	Σχόλιο
+contact fields to show	sitemgr	el	Πεδία επαφών προς προβολή
+custom	sitemgr	el	Προσαρμογή
+custom etemplate for the contactform	sitemgr	el	Προσαρμογή eΤαμπλέτας για τη φόρμα επαφών
+default	sitemgr	el	προκαθορισμένο
+delete category	sitemgr	el	Διαγραφή κατηγορίας
+department	sitemgr	el	Τμήμα
+email address	sitemgr	el	διεύθυνση email
+export	sitemgr	el	εξαγωγή
+fax	sitemgr	el	Fax
+filename	sitemgr	el	Όνομα αρχείου
+go to	sitemgr	el	Πηγαινε στο
+id	sitemgr	el	Id
+implies read permission	sitemgr	el	υπονοεί άδεια ανάγνωσης
+import	sitemgr	el	Εισαγωγή
+move to	sitemgr	el	μετακίνηση επιλεγμένων στο
+not	common	el	δεν
+on all pages	sitemgr	el	σε όλες τις σελίδες
+only on the first page	sitemgr	el	Μόνο στη πρώτη σελίδα
+parent	sitemgr	el	Μητρική
+prefix	sitemgr	el	Πρόθεμα
+previous	sitemgr	el	προηγούμενο
+published	sitemgr	el	Δημοσιευμένα
+reload	sitemgr	el	επαναφόρτωση
+reset	sitemgr	el	Επανακαθορισμός
+show the title of the wiki page	sitemgr	el	Προβολή του τίτλου της σελίδας wiki
+site	sitemgr	el	Ιστιοσελίδα
+size	sitemgr	el	Μέγεθος
+state	sitemgr	el	Νομός
+table of contents	sitemgr	el	Πίνακας περιεχομένων
+topic	sitemgr	el	Θέμα
+unsubscribe	sitemgr	el	Παύση συνδρομής
+use this module for displaying wiki-pages	sitemgr	el	Χρήση αυτής της ενότητας για προβολή  wiki-σελίδων
+week	sitemgr	el	Εβδομάδα
+wiki	sitemgr	el	Wiki
+wiki startpage	sitemgr	el	Αρχική σελίδα Wiki
+zip code	sitemgr	el	Τ.Κ.

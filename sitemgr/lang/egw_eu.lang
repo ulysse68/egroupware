@@ -1,0 +1,44 @@
+actions	sitemgr	eu	Ekintzak
+add a category	sitemgr	eu	kategoria bat gehitu
+address line 2	sitemgr	eu	Helbidea-2.lerroa
+all categories	sitemgr	eu	Kategoria guztiak
+ascending	sitemgr	eu	Gorakorra
+bookmarks	sitemgr	eu	Estekak
+center	sitemgr	eu	Erdiratu
+comment	sitemgr	eu	Komentarioa
+custom	sitemgr	eu	Egokitua
+default	sitemgr	eu	Lehenetsia
+delete category	sitemgr	eu	Kategoria ezabatu
+department	sitemgr	eu	Departamentua
+descending	sitemgr	eu	Beherakorra
+documentation	sitemgr	eu	Dokumentazioa
+email address	sitemgr	eu	Helbide elektronikoa
+entry deleted	sitemgr	eu	Sarrera hau ezabatu da
+entry saved	sitemgr	eu	Sarrera gordeta
+error deleting the entry!!!	sitemgr	eu	Errorea sarrera ezabatzerakoan
+error saving the entry!!!	sitemgr	eu	Errorea sarrera gordetzerakoan
+export	sitemgr	eu	esportatu
+fax	sitemgr	eu	Fax-a
+filename	sitemgr	eu	Fitxategiaren izena
+go to	sitemgr	eu	Joan
+id	sitemgr	eu	Id
+implies read permission	sitemgr	eu	irakurtze baimena dakar
+import	sitemgr	eu	Inportatu
+move to	sitemgr	eu	mugitu hautatuak
+not	common	eu	ez
+path	sitemgr	eu	Ruta
+prefix	sitemgr	eu	Aurrizkia
+previous	sitemgr	eu	aurrekoa
+published	sitemgr	eu	Publikatu
+reload	sitemgr	eu	Birkargatu
+reset	sitemgr	eu	Berrezarri
+select a category	sitemgr	eu	Kategoria hautatu
+site	sitemgr	eu	Lekua
+size	sitemgr	eu	Tamainua
+state	sitemgr	eu	Estatua
+table of contents	sitemgr	eu	Edukien taula
+topic	sitemgr	eu	Gaia
+unsubscribe	sitemgr	eu	Harpidetza kendu
+use default	sitemgr	eu	Lehenetsia erabili
+week	sitemgr	eu	Astea
+zip code	sitemgr	eu	ZIP kodea

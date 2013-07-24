@@ -1,0 +1,32 @@
+actions	sitemgr	ko	액션
+add a category	sitemgr	ko	카테고리 추가
+address line 2	sitemgr	ko	주소 2
+all categories	sitemgr	ko	모든 카테고리
+application	sitemgr	ko	응용프로그램
+ascending	sitemgr	ko	올림차순
+bookmarks	sitemgr	ko	북마크
+calendar	sitemgr	ko	일정
+comment	sitemgr	ko	커멘트
+custom	sitemgr	ko	사용자정의
+default	sitemgr	ko	기본
+delete category	sitemgr	ko	카테고리 삭제
+department	sitemgr	ko	부서
+descending	sitemgr	ko	내림차순
+export	sitemgr	ko	내보내기
+fax	sitemgr	ko	팩스
+filename	sitemgr	ko	파일명
+go to	sitemgr	ko	이동하기(Go to)
+import	sitemgr	ko	가져오기
+not	common	ko	아니(not)
+prefix	sitemgr	ko	접두어
+previous	sitemgr	ko	이전
+published	sitemgr	ko	발행됨
+reset	sitemgr	ko	리셋
+site	sitemgr	ko	Site
+state	sitemgr	ko	주
+topic	sitemgr	ko	주제
+translate	sitemgr	ko	번역하기
+use default	sitemgr	ko	기본 사용
+week	sitemgr	ko	주
+wiki	sitemgr	ko	위키
+zip code	sitemgr	ko	우편번호

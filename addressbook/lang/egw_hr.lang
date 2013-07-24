@@ -1,0 +1,166 @@
+%1 records imported	addressbook	hr	%1 zapisa uvezeno
+%1 records read (not yet imported, you may go %2back%3 and uncheck test import)	addressbook	hr	%1 zapisa pročitano (još nije uvezeno, možete se %2vratiti%3 i odznačiti Testiraj Uvoz)
+(e.g. 1969)	addressbook	hr	(npr. 1969)
+<b>no conversion type &lt;none&gt; could be located.</b>  please choose a conversion type from the list	addressbook	hr	<b>Nema konverzijskog tipa &lt;nema&gt; nemogu locirati.</b>  Molim vas izaberite vrstu konverzije s liste
+@-eval() is only availible to admins!!!	addressbook	hr	@-eval() je dostupan samo administratorima!!!
+actions	addressbook	hr	Akcije
+add a single entry by passing the fields.	addressbook	hr	Dodaj jedan unos proslijeđujući polja
+add custom field	addressbook	hr	Dodaj proizvoljno polje
+added	addressbook	hr	Dodano
+address book	common	hr	Adresar
+address book - vcard in	addressbook	hr	Adresar - VCard in
+address book - view	addressbook	hr	Adresar - pregled
+address line 2	addressbook	hr	Adresa Linija 2
+address type	addressbook	hr	Tip Adrese
+addressbook	common	hr	Adresar
+addressbook preferences	addressbook	hr	Postavke Adresara
+addressbook-fieldname	addressbook	hr	Adresar-Naziv polja
+addvcard	addressbook	hr	Dodaj VCard
+alt. csv import	addressbook	hr	Alt. CSV Uvoz
+are you sure you want to delete this field?	addressbook	hr	Da li ste sigurni da želite obrisati ovo polje?
+birthday	common	hr	Datum Rođenja
+birthdays	common	hr	Rođendani
+blank	addressbook	hr	Prazno
+business	common	hr	Djelatnost - Poslovno
+business city	addressbook	hr	Tvrtka - Grad
+business country	addressbook	hr	Tvrtka - Država
+business email	addressbook	hr	Tvrtka - E-mail
+business fax	addressbook	hr	Tvrtka - Fax
+business phone	addressbook	hr	Tvrtka - Broj telefona
+business state	addressbook	hr	Tvrtka - Županija
+business street	addressbook	hr	Tvrtka - Ulica
+business zip code	addressbook	hr	Tvrtka - Poštanski broj
+car phone	addressbook	hr	Telefon u Automobilu
+cell phone	addressbook	hr	Mobilni telefon
+charset of file	addressbook	hr	Kodna straioca datoteke
+city	common	hr	Grad
+company	common	hr	Tvrtka
+company name	addressbook	hr	Naziv tvrtke
+configuration	common	hr	Konfiguracija
+contact	common	hr	Kontakt
+contact application	admin	hr	Aplikacija kontakta
+contact settings	admin	hr	Podešenja kontakta
+contains	addressbook	hr	sadrži
+copied by %1, from record #%2.	addressbook	hr	Kopirao %1, iz zapisa #%2.
+country	common	hr	Država
+create new links	addressbook	hr	Create new links
+created	addressbook	hr	Napravljeno
+csv-fieldname	addressbook	hr	CSV-Ime Polja
+csv-filename	addressbook	hr	CSV-Ime Datoteke
+custom	addressbook	hr	Proizvoljno
+custom fields	addressbook	hr	Proizvoljno Polje
+debug output in browser	addressbook	hr	Prikaz poruka o izlaznim greškama unutar pretraživača
+default	addressbook	hr	Početno postavljena vrijednost
+default filter	addressbook	hr	Osnovni Filter
+delete a single entry by passing the id.	addressbook	hr	Delete a single entry by passing the id.
+deleted	addressbook	hr	Obrisano
+department	common	hr	Odjel
+domestic	addressbook	hr	Domaći
+download	addressbook	hr	Preuzmi sa poslužitelja
+download export file (uncheck to debug output in browser)	addressbook	hr	Preuzmi sa poslužitelja izvezenu datoteku (Odznači za prikaz poruka o izlaznim greškama unutar pretraživača)
+duration	addressbook	hr	Trajanje
+edit custom field	addressbook	hr	Uredi proizvoljno polje
+edit custom fields	admin	hr	Uredi proizvoljna polja
+empty for all	addressbook	hr	obriši za sve
+enter the path to the exported file here	addressbook	hr	Unesi stazu do izvezene datoteke
+existing links	addressbook	hr	Existing links
+export	addressbook	hr	Export
+export contacts	addressbook	hr	Izvezi Kontakte
+export file name	addressbook	hr	Izvezi Datoteku
+export from addressbook	addressbook	hr	Izvezi iz Adresara
+extra	addressbook	hr	Ekstra
+fax	addressbook	hr	Fax
+fax number	common	hr	Fax - Broj
+field %1 has been added !	addressbook	hr	Polje %1 je dodano !
+field %1 has been updated !	addressbook	hr	Polje %1 ažurirano !
+field name	addressbook	hr	Ime Polja
+fields to show in address list	addressbook	hr	Polja za prikazati u listi adresa
+fieldseparator	addressbook	hr	Razmaknica polja
+full name	addressbook	hr	Puno Ime
+geo	addressbook	hr	GEO
+global categories	addressbook	hr	Globalne kategorije
+grant addressbook access	common	hr	Dozvole Pristupa Adresaru
+home city	addressbook	hr	Osobno - Grad
+home country	addressbook	hr	Osobno - Država
+home email	addressbook	hr	Osobno - Email
+home phone	addressbook	hr	Osobno - Telefon
+home state	addressbook	hr	Osobno - Županija
+home street	addressbook	hr	Osobno - Ulica
+home zip code	addressbook	hr	Osobno - Poštanski broj
+icon	addressbook	hr	Ikona
+import	addressbook	hr	Uvezi
+import contacts	addressbook	hr	Uvezi Kontakte
+import csv-file into addressbook	addressbook	hr	Uvezi CSV-Datoteku u Adresar
+import file	addressbook	hr	Uvezi Datoteku
+import from ldif, csv, or vcard	addressbook	hr	Uvezi iz LDIF, CSV, ili VCard
+import from outlook	addressbook	hr	Uvezi iz Outlook
+import next set	addressbook	hr	Uvezi slijedeći set
+import_instructions	addressbook	hr	U Netscape, otvori Adresar i izaberi <b>Export</b> iz <b>File</b> menija.  Izvezena datoteka biti će u LDIF formatu.<p>Ili, u Outlook, izaberite vaš Contacts mapu, izaberite <b>Import and Export...</b> iz <b>File</b> menija i izvezite vaše kontakte u tekst razmaknut zarezom (comma separated text (CSV)) datoteku.  <p>Ili, u Palm Desktop 4.0 ili više, izaberite vaš adresar i izaberite <b>Export</b> iz <b>File</b> menija.  Izvezena datoteka biti će u VCard formatu.
+infolog	addressbook	hr	InfoLog
+international	addressbook	hr	Međunarodni
+label	addressbook	hr	LAbela
+last modified	addressbook	hr	Zadnja izmjena
+ldap context for contacts	admin	hr	LDAP kontekst za kontakte
+ldap host for contacts	admin	hr	LDAP poslužitelj za kontakte
+ldif	addressbook	hr	LDIF
+line 2	addressbook	hr	Linija 2
+links	addressbook	hr	Links
+list all categories	addressbook	hr	Prikaži sve kategorije
+location	addressbook	hr	Lokacija
+mark records as private	addressbook	hr	Označi podatak kao privatan
+message phone	addressbook	hr	Telefon za poruke
+middle name	addressbook	hr	Srednje Ime
+mobile	addressbook	hr	Mobilni
+mobile phone	addressbook	hr	Mobilni Telefon
+modem phone	addressbook	hr	Modemski Telefon
+no vcard	addressbook	hr	Bez VCard
+number of records to read (%1)	addressbook	hr	Broj zapisa za pročitati (%1)
+organisation	addressbook	hr	organizacija
+other number	addressbook	hr	Drugi broj
+other phone	addressbook	hr	Drugi telefon
+pager	common	hr	Pager
+parcel	addressbook	hr	paketski
+participants	addressbook	hr	Sudionici
+phone number	common	hr	Broj Telefona
+phone numbers	common	hr	Brojevi Telefona
+please enter a name for that field !	addressbook	hr	Molim vas unesite naziv za to polje !
+postal	common	hr	Poštanski
+pref	addressbook	hr	pref
+prefix	addressbook	hr	Prefiks
+public key	addressbook	hr	Javni ključ
+read a list of entries.	addressbook	hr	Pročitaj listu zapisa
+read a single entry by passing the id and fieldlist.	addressbook	hr	Pročitaj jedan zapis proslijeđujući šifru i listu polja
+record access	addressbook	hr	Pristup Podacima
+record owner	addressbook	hr	Vlasnik Podataka
+repetition	addressbook	hr	Ponavljanje
+select all	addressbook	hr	Označi Sve
+select the type of conversion	addressbook	hr	Izaberite vrstu konverzije
+select the type of conversion:	addressbook	hr	Izaberite vrstu konverzije:
+show	addressbook	hr	Show
+show birthday reminders on main screen	addressbook	hr	Pokaži rođendanske podsjetnike na glavnom ekranu
+startrecord	addressbook	hr	Početni tzapis
+state	common	hr	Županija
+street	common	hr	Ulica
+successfully imported %1 records into your addressbook.	addressbook	hr	Uspješno uneseno %1 zapis(a) u vaš Adresar.
+suffix	addressbook	hr	Sufiks
+test import (show importable records <u>only</u> in browser)	addressbook	hr	Testiraj Uvoz (prikaži zapise koji se mogu uvesti <u>samo</u> u internet pregledniku)
+that field name has been used already !	addressbook	hr	Ovaj naziv polja je već u upotrebi !
+this person's first name was not in the address book.	addressbook	hr	Ime ove osobe nije u Adresaru.
+this person's last name was not in the address book.	addressbook	hr	Prezime ove osobe nije u Adresaru.
+to many might exceed your execution-time-limit	addressbook	hr	to many might exceed your execution-time-limit
+today is %1's birthday!	common	hr	Danas je  %1's rođendan!
+tomorrow is %1's birthday.	common	hr	Sutra je %1's rođendan.
+translation	addressbook	hr	Prijevod
+type	addressbook	hr	Type
+update a single entry by passing the fields.	addressbook	hr	Update a single entry by passing the fields.
+updated	addressbook	hr	Updated
+use country list	addressbook	hr	Upotrijebi listu zemalja
+vcard	common	hr	VCard
+vcards require a first name entry.	addressbook	hr	VCard zahtijevaju unos imena
+vcards require a last name entry.	addressbook	hr	Vcard zahtijevaju unos prezimena
+warning!! ldap is valid only if you are not using contacts for accounts storage!	admin	hr	UPOZORENJE!! LDAP je valjan samo ako NE upotrebljavate kontakte za spremanje korisničkih računa!
+work phone	addressbook	hr	Telefon na poslu
+you must select a vcard. (*.vcf)	addressbook	hr	Morate izabrati vcard. (*.vcf)
+you must select at least 1 column to display	addressbook	hr	Morate izabrati bar 1 kolumnu za prikazati
+zip code	common	hr	Poštanski Broj
+zip_note	addressbook	hr	<p><b>Obavijest:</b> Datoteka može biti zip kolekcija .csv, .vcf, ili .ldif datoteka.  Ipak, nemojte miješati vrste datoteka po uvozu.

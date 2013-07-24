@@ -1,0 +1,11 @@
+actions	news_admin	ko	액션
+active	news_admin	ko	활성화
+always	news_admin	ko	언제나
+configuration	news_admin	ko	구성
+end	news_admin	ko	종료
+from	news_admin	ko	부터
+global categories	news_admin	ko	전역 카테고리
+link	news_admin	ko	링크
+small view	news_admin	ko	미니뷰
+start	news_admin	ko	시작
+write	news_admin	ko	쓰기

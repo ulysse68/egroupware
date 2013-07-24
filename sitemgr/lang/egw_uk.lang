@@ -1,0 +1,24 @@
+actions	sitemgr	uk	Дії
+add a category	sitemgr	uk	Додати категорію
+address line 2	sitemgr	uk	Рядок 2
+application	sitemgr	uk	Приложення
+comment	sitemgr	uk	Коментувати
+custom	sitemgr	uk	Власне
+default	sitemgr	uk	По замовченню
+delete category	sitemgr	uk	Видалити категорію
+department	sitemgr	uk	Департамент
+export	sitemgr	uk	Експортувати
+fax	sitemgr	uk	Факс
+id	sitemgr	uk	Id
+implies read permission	sitemgr	uk	Включає дозвіл на читання
+import	sitemgr	uk	Імпорт
+not	common	uk	не треба
+prefix	sitemgr	uk	Префікс
+refresh	sitemgr	uk	Поновити
+reset	sitemgr	uk	Переввести
+site	sitemgr	uk	Сайт
+state	sitemgr	uk	Область
+translate	sitemgr	uk	Перекласти
+use default	sitemgr	uk	По замовченню
+week	sitemgr	uk	Тиждень
+zip code	sitemgr	uk	Поштовий індекс

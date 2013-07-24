@@ -1,0 +1,13 @@
+actions	news_admin	bg	Действия
+always	news_admin	bg	винаги
+by date	news_admin	bg	по дата
+configuration	news_admin	bg	Конфигуриране
+end	news_admin	bg	Край
+from	news_admin	bg	От
+global categories	news_admin	bg	Глобални категории
+link	news_admin	bg	Връзка
+on	news_admin	bg	на
+parent	news_admin	bg	Родителски
+reload	news_admin	bg	презареди
+small view	news_admin	bg	умален изглед
+start	news_admin	bg	Старт

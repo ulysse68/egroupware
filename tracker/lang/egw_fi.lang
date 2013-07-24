@@ -1,0 +1,244 @@
+%1 entries updated.	tracker	fi	%1 merkintää päivitetty.
+%1 tickets have been converted	tracker	fi	%1 merkintää muutettu.
+&#9830; not closed	tracker	fi	♦ Ei suljetut
+&#9830; own not closed	tracker	fi	♦ Omat, ei suljetut
+&#9830; own without reply not closed	tracker	fi	♦ Omat, ei suljetut, ilman vastausta
+&#9830; without 30 days reply not closed	tracker	fi	♦ Ei suljetut, 30 vrk ilman vastausta
+&#9830; without reply not closed	tracker	fi	♦ Ei suljetut, ilman vastausta
+(new tickets as	tracker	fi	Omistaja uudelle merkinnälle
+--> choose a project from the drop-down list	tracker	fi	--> valitse projekti pudotusvalikosta
+--> enter new name	tracker	fi	--> anna uusi nimi
+1 - lowest	tracker	fi	1 - alhainen
+5 - medium	tracker	fi	5 - normaali
+9 - highest	tracker	fi	9 - korkea
+accepted	tracker	fi	Hyväksytty
+activate users queue access control	tracker	fi	Aktivoi ketjukohtaiset käyttöoikeudet
+add additionally	tracker	fi	Lisää mukana olevaksi
+add assigned	tracker	fi	Lisää vastuulliseksi
+add comment	tracker	fi	Lisää kommentti
+add timesheet entry	tracker	fi	Lisää ajanseurantamerkintä
+add unrecognized mail address to the cc field	tracker	fi	Lisää tunnistamaton sähköpostiosoite piilokopio (CC) kenttään
+after	tracker	fi	jälkeen
+after how many days a not replied item should be marked overdue?	tracker	fi	Montako päivää merkintä voi olla vastaamatta, ennen kuin se merkitään erääntyneeksi?
+after how many days pending items should be closed automatic	tracker	fi	Monenko päivän vireillä olon jälkeen merkintä suljetaan automaattisesti?
+all tickets are already converted to tracker	tracker	fi	Kaikki merkinnät ovat jo Reklamaationhallinnassa
+allow bounties	tracker	fi	Salli maksullinen kehitys
+allow default projects for tracker	tracker	fi	Salli oletusprojektit
+allow editing by	tracker	fi	Salli muokkaaminen:
+allow the predefinition of projects that will be assigned to new tracker-items.	tracker	fi	Salli niiden projektien esimäärittelmät, jotka liitetään Reklamaationhallinnan merkintöihin.
+allow to assign groups to tracker items	tracker	fi	Salli merkintöjen vastuulliseksi määrittely ryhmille
+allow voting	tracker	fi	Salli äänestäminen
+allow voting on tracker items, show and sort after the votes	tracker	fi	Salli äänestäminen merkinnöissä, näytä ja lajittele äänet.
+already escalated	tracker	fi	Eskalointi jo suoritettu
+amount	tracker	fi	Summa
+assign to project	tracker	fi	Liitä projektiin
+assigned to	tracker	fi	Vastuullinen
+assigning groups	tracker	fi	Vastuu ryhmälle
+attachments & links	tracker	fi	Liitteet ja linkit
+autoassign to	tracker	fi	Vastuu automaattisesti
+automatic email handling	tracker	fi	Automaattinen sähköpostikäsittely
+bounties	tracker	fi	Maksullinen kehitys
+bounty confirmed	tracker	fi	Maksullinen kehitys vahvistettu
+bounty confirmed.	tracker	fi	Maksullinen kehitys vahvistettu
+bounty deleted	tracker	fi	Maksullinen kehitys poistettu
+bounty deleted.	tracker	fi	Maksullinen kehitys poistettu
+bounty set	tracker	fi	Maksullisen kehityksen summa asetettu
+canned response	tracker	fi	Valmiiksi tallennettu vastaus
+canned responses	tracker	fi	Valmiiksi tallennettu vastaus
+categories, versions, canned responses	tracker	fi	Kategoriat, versiot, tallennetut vastaukset
+category for new tickets	tracker	fi	Kategoria uusille merkinnöille
+changes made below will be lost, if not applied before!	tracker	fi	Tehdyt muutokset menetetään, ellei niitä ole ensin lisätty/tallennettu.
+check all	tracker	fi	Merkitse kaikki
+check mail interval	tracker	fi	Valitse postitusväli
+choose a project from the drop-down list	tracker	fi	Valitse projekti pudotusvalikosta
+close pending	tracker	fi	Sulje vireillä olevat
+closed	tracker	fi	Suljettu
+comment by %1 at %2:	tracker	fi	Kommentoinut %1 %2
+comments	tracker	fi	Kommentit
+completed	tracker	fi	Valmis
+configuration	tracker	fi	Konfiguraatio
+configuration for all trackers	tracker	fi	Kaikkien Reklamaationhallintaketjujen konfigurointi kerralla
+configuration updated.	tracker	fi	Konfiguraatio päivitetty
+configuration, acl, notifications	tracker	fi	Konfiguraatio, ACL, huomautukset
+confirm that you pay the specified bounty to implement or fix the issue	tracker	fi	Vahvista, että maksat määrittelemäsi summan, jotta kyseinen ominaisuus kehitetään tai ongelma ratkaistaan.
+confirm the receipt of money for this bounty	tracker	fi	Vahvista vastaanottavasi rahat kyseisestä tehtävästä
+confirmed	tracker	fi	Vahvistettu
+convert all closed tickets	tracker	fi	Lisää kaikkiin suljettuihin merkintöihin
+convert all open tickets	tracker	fi	Lisää kaikkiin avoimiin merkintöihin
+copy to	tracker	fi	Lähetä kopio
+create new links	tracker	fi	Luo uusi linkki
+created	tracker	fi	Luotu
+creation date	tracker	fi	Aloitusaika
+creator	tracker	fi	Luonut
+custom fields	tracker	fi	Lisäkentät
+custom tracker priorities	tracker	fi	Muokattavat prioriteetit
+date opened	tracker	fi	Avauspäivä
+define escalations	common	fi	Määrittele eskalaatiot
+delete mails from server	tracker	fi	Poista sähköpostit palvelimelta
+delete this bounty	tracker	fi	Poista tämä maksullinen kehitys
+delete this canned response	tracker	fi	Poista tämä säilytetty vastaus
+delete this category	tracker	fi	Poista tämä kategoria
+delete this entry	tracker	fi	Poista tämä merkintä
+delete this escalation	tracker	fi	Poista tämä eskalaatio
+delete this status	tracker	fi	Poista tämä tila
+delete this tracker including all it's items and categories	tracker	fi	Poista tämä ketju kaikkine merkintöineen ja kategorioineen.
+delete this version	tracker	fi	Poista tämä versio
+delete unrecognized mails from the server, even if 'delete mails' above is not tagged.	tracker	fi	Poista tunnistamattomat sähköpostit palvelimelta, vaikka 'Poista sähköpostit' merkintä ei ole valittuna.
+deleted	tracker	fi	Poistettu
+do you want to vote for this item	tracker	fi	Haluatko äänestää tätä merkintää?
+donator name to show	tracker	fi	Näytä lahjoittajan nimi
+duplicate	tracker	fi	Tuplaa
+e-mail address to which a copy of all tracker-notifications should be send	tracker	fi	Sähköpostiosoite, johon kaikki Reklamaationhallinnan huomautusviestit tulisi lähettää.
+e-mail notifications	tracker	fi	Huomautusviestit
+edit %1	tracker	fi	Muokkaa %1
+edit entry	tracker	fi	Muokkaa merkintää
+email address to contact you	tracker	fi	Sähköpostiosoite, jolla sinut tavoittaa
+email handling can be configured only for all trackers	tracker	fi	Sähköpostikäsittely voidaan konfiguroida vain kaikkiin ketjuihin.
+enter an email address here if unrecognized mails should be forwarded	tracker	fi	Mihin osoitteeseen tunnistamaton sähköposti pitäisi edelleenlähettää?
+enter an opening text for the reply message	tracker	fi	Syötä avausteksti vastaussähköpostiin.
+enter the imap server from which emails should be fetched	tracker	fi	IMAP palvelin josta sähköpostit noudetaan.
+enter the mail address that will be read.	tracker	fi	Syötä luettava sähköpostiosoite
+entry saved	tracker	fi	Merkintä tallennettu
+error adding the new tracker!	tracker	fi	Virhe lisätessä uutta merkintää!
+error deleting escalation!	tracker	fi	Virhe poistettaessa eskalaatiota!
+error saving the entry!!!	tracker	fi	Virhe tallentaessa merkintää !!!
+escalation	tracker	fi	Eskalaatio
+escalation added.	tracker	fi	Eskalaatio lisätty
+escalation deleted.	tracker	fi	Eskalaatio poistettu
+escalation not found!	tracker	fi	Eskalaatiota ei löytynyt!
+escalation saved.	tracker	fi	Eskalaatio tallennettu
+everybody	tracker	fi	Kuka tahansa
+existing links	tracker	fi	Olemassa olevat linkit
+field	tracker	fi	Kenttä
+fixed	tracker	fi	Korjattu
+forward to	tracker	fi	Lähetä edelleen
+forward unrecognized mails to the email address that has to be specified here.	tracker	fi	Lähetä tunnistamattomat sähköpostit määrittelemääsi sähköpostiosoitteeseen
+from	tracker	fi	Keneltä
+history	tracker	fi	Historia
+html editing	tracker	fi	HTML editointi
+id	tracker	fi	Tunniste
+if this item is important for you, please consider to set a bounty for it!	tracker	fi	Jos tämä kohde on sinulle tärkeä, harkitse sen tekemistä maksullisena lisätyönä!
+if this item is important for you, please vote for it.	tracker	fi	Jos tämä kohde on sinulle tärkeä, äänestä sen puolesta.
+ignore	tracker	fi	Jätä huomiotta
+ignore unrecognized mails. they will not be deleted from the server, even if 'delete mails' above is tagged.	tracker	fi	Jätä tunnistamattomat sähköpostit huomiotta. Niitä ei poisteta palvelimelta, vaikka 'Poista Sähköpostit' olisi valittuna.
+import tts tickets	tracker	fi	Tuo TTS
+incoming mail folder	tracker	fi	Saapuvien sähköpostien kansio
+incoming mail rules	tracker	fi	Saapuvien sähköpostien säännöt
+incoming mail server	tracker	fi	Saapuvien sähköpostien palvelin
+info only	tracker	fi	Info
+interval in minutes for checking the incoming mails	tracker	fi	Kuinka usein tarkistetaan saapuvat sähköpostit?
+introduction message	tracker	fi	Tervehdysviesti
+invalid	tracker	fi	Kelpaamaton
+item assignee	tracker	fi	Vastuuhenkilöt
+item creator	tracker	fi	Merkinnän luoja
+language for the copy	tracker	fi	Kopioitava kieli
+last modified	tracker	fi	Viimeksi muokattu
+last reply	tracker	fi	Viimeksi muokattu
+later	tracker	fi	Jälkeen
+links	tracker	fi	Linkit
+list of coma separated email address	tracker	fi	Lista pilkulla erotetuista sähköpostiosoitteista
+mail handling	tracker	fi	Postinkäsittely
+new %1	tracker	fi	Uusi %1
+new items	tracker	fi	Uusi kohde
+new ticket submitted by %1 at %2	tracker	fi	Uusi merkintä henkilöltä %1, %2
+new tracker item submitted by %1 at %2	tracker	fi	Uusi merkintä henkilöltä %1, %2
+no change	tracker	fi	Ei muutosta
+no trackers found, aborting	tracker	fi	Merkintöjä ei löydetty, keskeytetään.
+non-anonymous users	tracker	fi	Tunnistetut käyttäjät
+noone	tracker	fi	Ei kukaan
+notification	tracker	fi	Huomautusviesti
+out of date	tracker	fi	Myöhästynyt
+overdue after	tracker	fi	Eräpäivän jälkeen
+ownership of the ticket	tracker	fi	Merkinnän omistaja
+pending	tracker	fi	Vireillä
+pending items never get close automatic.	tracker	fi	Vireillä oleva merkintä ei koskaan sulkeudu automaattisesti
+pending items will be closed automatic after %1 days without response.	tracker	fi	Vireillä oleva merkintä suljetaan automaattisesti, jos %1 päivän kuluessa ei tule vastausta.
+permission denied !!!	tracker	fi	Pääsy estetty !!!
+permit html editing in overview and comments	tracker	fi	Salli HTML-editointi yleiskuvauksessa ja kommenteissa
+port number	tracker	fi	Portti
+postponed	tracker	fi	Lykätty
+print entry	tracker	fi	Tulosta merkintä
+priorities	tracker	fi	Tärkeysjärjestys
+priorities with empty label are not available to the user	tracker	fi	Tärkeysjärjestyksen tyhjät kentät eivät ole näkyvissä käyttäjille.
+project selection	tracker	fi	Projektinvalinta
+projects	tracker	fi	Projektit
+queue	tracker	fi	Queue
+read mail address	tracker	fi	Luettava sähköpostiosoite
+receive notifications about assigned tracker-items	tracker	fi	Vastaanota huomautuksia delegoiduista merkinnöistä
+receive notifications about created tracker-items	tracker	fi	Vastaanota huomautuksia uusista merkinnöistä
+receive notifications in html	tracker	fi	Vastaanota huomautukset html -muodossa
+recieve notifications about own changes in tracker-items	tracker	fi	Vastaanota huomautuksia tekemistäsi muutoksista merkinnöissä.
+rejected	tracker	fi	Kielletty
+remind	tracker	fi	Muistuta
+reply also to unknown addresses	tracker	fi	Vastaa myös tuntemattomiin osoitteisiin
+resolution	tracker	fi	Resoluutio
+restict tracker items to the creator and the staff only	tracker	fi	Rajoita merkintöjen lukuoikeus ainoastaan merkinnän omistajalle ja henkilökunnalle.
+restict tracker items to the creators primary group and the staff only	tracker	fi	Rajoita merkintöjen lukuoikeus ainoastaan omistajan ensisijaiselle ryhmälle ja henkilökunnalle.
+restrict tracker items to staff and:	tracker	fi	Rajoita merkinnät henkilökunnalle ja:
+restriction	tracker	fi	Rajoitukset
+select a default tracker for new tickets or 'reject' to disallow ticket creation via mail.	tracker	fi	Valitse Reklamaationhallintaketju uusille merkinnöille tai valitse "Hylkää" (Reject) estääksesi uusien merkintöjen luomisen sähköpostilla.
+select how autoreplies should be sent when mails are received	tracker	fi	Valitse kuinka automaattinen vastaus tulisi lähettää, kun viesti on vastaanotettu.
+select multiple	tracker	fi	Valitse useampi käyttäjä
+select tracker queue	tracker	fi	Valitse Reklamaationhallintaketju
+select which categories should be used in tracker for the tts categories	tracker	fi	Valitse käytettävät kategoriat TTS kategorioille.
+select which username should be used when unrecognized mails are handled.	tracker	fi	Valitse käyttäjänimi, mitä käytetään tunnistamattomille sähköposteille.
+sender address	tracker	fi	Lähettäjän osoite
+sender address for all notifications, eg. noreply@egroupware.org	tracker	fi	Lähettäjän osoite kaikille huomautusviesteille, esim. noreply@egroupware.org
+sent autoreplies	tracker	fi	Lähetä automaattisia vastauksia
+server type	tracker	fi	Palvelimen tyyppi
+set %1	tracker	fi	Aseta %1
+set an own bounty (in %s)	tracker	fi	Aseta oma maksullinen lisätyö (%s)
+set bounty	tracker	fi	Aseta palkkio
+should the tracker send you notification mails, if tracker items assigned to you get updated?	tracker	fi	Lähetetäänkö sinulle huomautusviesti, jos niitä merkintöjä joissa olet vastuuhenkilönä, päivitetään?
+should the tracker send you notification mails, if tracker items you created get updated?	tracker	fi	Lähetetäänkö sinulle huomautusviesti, jos luomaasi merkintää päivitetään?
+show the tracker send you notification mails, in tracker items that you updates?	tracker	fi	Lähetetäänkö sinulle huomautusviesti merkinnöistä joita itse päivitit?
+staff	tracker	fi	Henkilökunta
+state	tracker	fi	Tila
+stati	tracker	fi	Tila
+store as	tracker	fi	Varastoi
+summary	tracker	fi	Tiivistelmä
+technicians	tracker	fi	Tekninkot
+thank you for setting this bounty.	tracker	fi	Kiitos kun asetit palkkion
+thank you for voting.	tracker	fi	Kiitos kun äänestit
+the bounty will not be shown, until the money is received.	tracker	fi	Maksullista kehitystä EI näytetä ennen kuin summa on maksettu.
+the canned response will be prefix the text you type.	tracker	fi	Valmiiksi kirjoitettu vastaus on aloitustekstinä kirjoittamallesi viestille.
+there already an escalation for that filter!	tracker	fi	Tällä suotimella on jo eskalaatio!
+this module displays information from the tracker.	tracker	fi	Tämä moduuli näyttää tietoa Reklamaationhallinnasta.
+this tracker item was closed automatically by the system. it was previously set to a pending status, and the original submitter did not respond within %1 days.	tracker	fi	Järjestelmä sulki tämän merkinnän automaattisesti. Se oli viimeksi asetettu vireillä olevaan tilaan, eikä alkuperäinen lähettäjä vastannut siihen %1 päivän kuluessa.
+ticket count	tracker	fi	Merkintälaskuri
+ticket modified by %1 at %2	tracker	fi	Merkintää muokannut %1, %2
+times	tracker	fi	Ajat
+tracker	common	fi	Reklamaationhallinta
+tracker added	tracker	fi	Reklamaationhallintaketju lisätty
+tracker admins	tracker	fi	Ylläpitäjät
+tracker admins & technicians	tracker	fi	Ylläpitäjät ja tekniset tukihenkilöt
+tracker configuration	tracker	fi	Reklamaationhallinnan konfigurointi
+tracker deleted	tracker	fi	Reklamaationhallintaketju poistettu
+tracker for new tickets	tracker	fi	Reklamaationhallintaketju uusille merkinnöille
+tracker item modified by %1 at %2	tracker	fi	Merkintää muokannut: %1, %2
+tracker item not found !!!	tracker	fi	Merkintää ei löytynyt!!
+tracker queue	tracker	fi	Reklamaationhallintaketju
+tracker-%1 '%2' added.	tracker	fi	Merkintä-%1 '%2' lisätty.
+tracker-%1 '%2' updated.	tracker	fi	Merkintä-%1 '%2' päivitetty.
+tracker-%1 deleted.	tracker	fi	Merkintä-%1 poistettu
+unchanged	tracker	fi	Ei muutetut
+unrecognized mails	tracker	fi	Tunnistamattomat sähköpostit
+url of the tracker	tracker	fi	Reklamaationhallinnan URL
+url to be included in the notification, eg. to the page with the sitemgr module, default tracker inside egw	tracker	fi	Sisällytetäänkö Reklamaationhallinnan URL huomautusviesteihin, esim. nettisivulle (Sivustonhallinta-sovelluksessa). Oletus on EGroupwaren Reklamaationhallinta.
+use a default user for mails that where not recognized	tracker	fi	Valitse käyttäjänimi, mitä käytetään tunnistamattomille sähköposteille.
+versions	tracker	fi	Versiot
+vote for it!	tracker	fi	Äänestä sitä!
+votes	tracker	fi	Äänet
+when emails are received from an unknown email address, tag this field to have them added to the tracker's cc field automatically. this field is ignored if unrecognized mail addresses are not handled.	tracker	fi	Lisätäänkö tunnistamattoman sähköpostin lähettäjän sähköpostiosoite automaattisesti CC kenttään? Ei huomioida, jos tunnistamattomia sähköposteja ei käsitellä.
+wont fix	tracker	fi	Ei korjaannu
+works for me	tracker	fi	Toimii minulla
+yes, display groups first	tracker	fi	Kyllä, näytä ryhmät ensin
+yes, display users first	tracker	fi	Kyllä, näytä käyttäjät ensin
+yes, with larger fontsize	tracker	fi	Kyllä, isomalla fonttikoolla
+you can enable/disable the queue access restrictions in the configuration tab (for all queues)	tracker	fi	Voit sallia / ottaa pois käytöstä Reklamaationhallintaketjujen rajoitukset konfiguroinnissa (kaikista ketjuista)
+you can respond by visiting:	tracker	fi	Voit vastata vierailemalla:
+you need to enter a name	tracker	fi	Anna nimi
+you need to login to vote!	tracker	fi	Kirjaudu sisään äänestystä varten!
+you need to select something to change and some tracker items!	tracker	fi	Sinun pitää valita jotain muutettavaa JA joku merkintä!
+you need to specify amount, donators name and email address!	tracker	fi	Sinun pitää antaa summa, lahjoittajan nimi JA sähköpostiosoite!
+you voted %1.	tracker	fi	Annoit äänesi %1.

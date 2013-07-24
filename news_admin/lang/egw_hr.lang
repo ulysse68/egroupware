@@ -1,0 +1,8 @@
+actions	news_admin	hr	Akcije
+configuration	news_admin	hr	Konfiguracija
+from	news_admin	hr	From
+global categories	news_admin	hr	Globalne kategorije
+link	news_admin	hr	Link
+reload	news_admin	hr	Ponovo otvori
+small view	news_admin	hr	smanji pogled
+write	news_admin	hr	Zapiši
